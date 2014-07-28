@@ -8,7 +8,7 @@ MENU_EMPIRES: Empires
 MENU_GAME_SETTINGS: Options du jeu
 MENU_GALAXIES: Galaxies
 MENU_GAMES: Jeu
-HANDICAP: Handicap
+HANDICAP: Handicapes
 
 MAIN_MENU: Menu principal
 PAUSED_MENU: Pause
@@ -23,7 +23,7 @@ MENU_BACK: Retour
 MENU_OPTIONS: Options
 QUIT_GAME: Quitter
 OPEN_IRC: Ouvrir le chat IRC
-CLOSE_IRC: Déconnection du chat IRC
+CLOSE_IRC: Se déconnecter du chat IRC
 IRC_NICKNAME: Nom: $1
 NICKNAME: Nom:
 CHANGE_NICK: Changer
@@ -53,9 +53,9 @@ MP_CONFIRM_NOT_READY: Tous les joueurs n'ont pas indiquer qu'ils sont prêt à l
 MP_CANNOT_CONNECT: Impossible de se connecter au serveur
 MP_WAITING_START: En attente du serveur pour démarrer la partie
 MP_WAITING_TRANSFER: Chargement de la partie
-MP_IRC_CHAT: Ouvrir la fenêtre de chat IRC
-MP_NO_GAMES: Aucunes parties multijoueurs n'est actifs...
-INVITE_FRIEND: Inviter Amie
+MP_IRC_CHAT: Ouvrir chat IRC
+MP_NO_GAMES: Aucunes parties multijoueurs n'est actuellement présent...
+INVITE_FRIEND: Inviter Amis
 
 CHOOSE_MAP: Choisir la carte
 ADD_GALAXY: Ajouter galaxie
@@ -134,9 +134,9 @@ IRC_HELP: <<
 
 IRC_JOIN: [color=$3]$1[/color] a rejoin $2
 IRC_PART: [color=$3]$1[/color] a quitter $2
-IRC_QUIT: [color=$3]$1[/color] a quitter
+IRC_QUIT: [color=$3]$1[/color] a quitter le chat
 IRC_ACTION: [color=$3]$1[/color] $2
-IRC_NICK: [color=$3]$1[/color] est maintenant connu comme [color=$4]$2[/color]
+IRC_NICK: [color=$3]$1[/color] est maintenant connu sous le nom de [color=$4]$2[/color]
 IRC_KICK: [color=$3]$1[/color] a été kicker [color=$4]$2[/color]
 IRC_TOPIC: [color=$3]$1[/color] a changer le sujet en '$2'
 IRC_TOPIC_IS: Topic for $1 est: $2
