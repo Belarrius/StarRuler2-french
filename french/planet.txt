@@ -73,30 +73,31 @@ DESTROY_BUILDING: Détruire $1
 CANCEL_BUILDING: Annuler $1
 
 TT_MANAGE_PLANET: <<|
-	[b]Manage Planet[/b]
+	[b]Gérer la planète[/b]
 
-	View detailed information about the planet's surface, resources and construction.
+	Affichage des informations détaillées sur la surface, les ressources et les constructiosn de la planète.
 >>
 
 TT_MANAGE_PLANET_SUPPORTS: <<|
-	[b]Manage Supports[/b]
+	[b]Gérer le support[/b]
 
-	Manage the groups of support ships currently assigned to the planet.
+	Gérer les groupes de vaisseaux de défense actuellement affectés pour la planète.
 >>
 
-COLONIZE: Colonize
+COLONIZE: Coloniser
 TT_COLONIZE: <<|
-	[b]Colonize[/b]
+	[b]Coloniser[/b]
 
 	Send 1B population from the planet to another unoccupied planet to colonize it.
+	Envoie une population de 1M sur une planète inoccupé pour la coloniser.
 >>
 TT_COLONIZE_THIS: <<|
-	[b]Colonize This[/b]
+	[b]Coloniser[/b]
 
-	Send 1B population from one of your planets to this planet to colonize it.
+	Envoie une population de 1M d'une de vos planètes pour coloniser.
 >>
 
-DEFENSE_TARGET: Build Defense
+DEFENSE_TARGET: Construire Défense
 TT_DEFENSE_TARGET: <<|
 	[b]Build Defense for...[/b]
 
