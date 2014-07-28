@@ -1,130 +1,131 @@
-OPT_GAME: Game
-OPT_GALAXY_BG: Show Galaxy in Overlay Background
-OPT_ICONIFY_NOTIFICATIONS: Iconify Notifications
-OPT_AUTOPAUSE: Automatically Pause When Viewing Other Tabs
+OPT_GAME: Jeu
+OPT_GALAXY_BG: Afficher la Galaxy en arrière-plan du menu
+OPT_ICONIFY_NOTIFICATIONS: Icone de notification
+OPT_AUTOPAUSE: Pause automatique lors du basculement d'une autre tab
 
-OPT_KEYBINDS: Keybinds
-OPT_RESET_KEYBINDS: Reset Keybinds to Defaults
-OPT_RESET_SURE: Are you sure you wish to reset all keybinds to their defaults?
+OPT_KEYBINDS: Raccourci clavier
+OPT_RESET_KEYBINDS: Mettre les raccourci clavier par défaut
+OPT_RESET_SURE: Êtes-vous sûr de vouloir mettre les raccourci clavier par défaut ?
 
-OPT_AUDIO: Audio
-OPT_MASTER_VOLUME: Master Volume
-OPT_SFX_VOLUME: SFX Volume
-OPT_MUSIC_VOLUME: Music Volume
+OPT_AUDIO: Son
+OPT_MASTER_VOLUME: Volume principale
+OPT_SFX_VOLUME: Volume SFX
+OPT_MUSIC_VOLUME: Volume musique
 
-OPT_LANGUAGE: Language*
+OPT_LANGUAGE: Langage*
 LOC_english: English
 LOC_japanese: Japanese
+LOC_french: Français
 
-OPT_MAX_FPS: FPS Limit
-OPT_AUTOSAVE: Autosave Interval (Minutes)
+OPT_MAX_FPS: Limité les FPS
+OPT_AUTOSAVE: Intervale de sauvegarde automatique (en Minutes)
 
-KG_Global: Global Keybinds
-KB_WORLD_FORWARD: World Forward
-KB_WORLD_LEFT: World Left
-KB_WORLD_BACKWARD: World Backward
-KB_WORLD_RIGHT: World Right
-KB_WORLD_UP: World Up
-KB_WORLD_DOWN: World Down
+KG_Global: Raccourci globale
+KB_WORLD_FORWARD: Déplacer Haut
+KB_WORLD_LEFT: Déplacer Gauche
+KB_WORLD_BACKWARD: Déplacer Bas
+KB_WORLD_RIGHT: Déplacer Droit
+KB_WORLD_UP: Déplacer Monter
+KB_WORLD_DOWN: Déplacer Baisser
 
-KB_CAM_FORWARD: Camera Forward
-KB_CAM_LEFT: Camera Left
-KB_CAM_BACKWARD: Camera Backward
-KB_CAM_RIGHT: Camera Right
-KB_CAM_UP: Camera Up
-KB_CAM_DOWN: Camera Down
+KB_CAM_FORWARD: Caméra Haut
+KB_CAM_LEFT: Caméra Gauche
+KB_CAM_BACKWARD: Caméra Bas
+KB_CAM_RIGHT: Caméra Droite
+KB_CAM_UP: Caméra Monter
+KB_CAM_DOWN: Caméra Baisser
 
-KB_ZOOM_IN: Zoom In
-KB_ZOOM_OUT: Zoom Out
+KB_ZOOM_IN: Zoom avant
+KB_ZOOM_OUT: Zoom arrière
 
-KB_RESET_CAM: Reset Camera
-KB_TAKE_SCREENSHOT: Take Screenshot
+KB_RESET_CAM: Réinitialisé la caméra
+KB_TAKE_SCREENSHOT: Prendre une Screenshot
 KB_TOGGLE_FIREARCS: Toggle Firing Arc Display
 
-KB_TAB_NEXT: Next Tab
-KB_TAB_PREVIOUS: Previous Tab
-KB_TAB_NEW: Open New Tab
-KB_TAB_NEW_BG: Open New Background Tab
-KB_TAB_REOPEN: Reopen Closed Tab
-KB_TAB_CLOSE: Close Tab
-KB_TAB_HOME: Tab Home
-KB_TAB_1: Switch To Tab 1
-KB_TAB_2: Switch To Tab 2
-KB_TAB_3: Switch To Tab 3
-KB_TAB_4: Switch To Tab 4
-KB_TAB_5: Switch To Tab 5
-KB_TAB_6: Switch To Tab 6
-KB_TAB_7: Switch To Tab 7
-KB_TAB_8: Switch To Tab 8
-KB_TAB_9: Switch To Tab 9
+KB_TAB_NEXT: Tab suivante
+KB_TAB_PREVIOUS: Tab précédente
+KB_TAB_NEW: Ouvrir nouvelle tab
+KB_TAB_NEW_BG: Ouvrir nouvelle tab dans le fond
+KB_TAB_REOPEN: Réouvrir tab fermé
+KB_TAB_CLOSE: Fermé tab
+KB_TAB_HOME: Acceuil tab
+KB_TAB_1: Basculer sur tab 1
+KB_TAB_2: Basculer sur tab 2
+KB_TAB_3: Basculer sur tab 3
+KB_TAB_4: Basculer sur tab 4
+KB_TAB_5: Basculer sur tab 5
+KB_TAB_6: Basculer sur tab 6
+KB_TAB_7: Basculer sur tab 7
+KB_TAB_8: Basculer sur tab 8
+KB_TAB_9: Basculer sur tab 9
 
-KB_UI_ZOOM_IN: UI Scale Zoom In
-KB_UI_ZOOM_OUT: UI Scale Zoom Out
-KB_UI_ZOOM_RESET: UI Scale Reset
+KB_UI_ZOOM_IN: Zoom interface avant
+KB_UI_ZOOM_OUT: Zoom interface arrière
+KB_UI_ZOOM_RESET: Réinitialisé zoom interface
 
-KB_MP_CHAT: Open MP Chat
+KB_MP_CHAT: Ouvrir chat message privé
 
-KB_PAUSE: Toggle Pause
-KB_SPEED_SLOWER: Slower Game Speed
-KB_SPEED_DEFAULT: Default Game Speed
-KB_SPEED_FASTER: Faster Game Speed
+KB_PAUSE: Mettre en Pause
+KB_SPEED_SLOWER: Diminué vitesse de jeu
+KB_SPEED_DEFAULT: Vitesse de jeu par défaut
+KB_SPEED_FASTER: Augmenter vitesse de jeu
 
-KB_TOGGLE_CONSOLE: Toggle Console
-KB_TOGGLE_MENU: Switch to Main Menu
-KB_GO_MENU: Open Go Menu
-KB_CHANGE_EMPIRE: Change Empire
+KB_TOGGLE_CONSOLE: Basculer sur la console
+KB_TOGGLE_MENU: Basculer sur le menu du jeu
+KB_GO_MENU: Ouvrir le menu go
+KB_CHANGE_EMPIRE: Changer d'empire
 
 KG_Objects: Objects
 
-KB_GROUP_1: Object Group 1
-KB_GROUP_2: Object Group 2
-KB_GROUP_3: Object Group 3
-KB_GROUP_4: Object Group 4
-KB_GROUP_5: Object Group 5
-KB_GROUP_6: Object Group 6
-KB_GROUP_7: Object Group 7
-KB_GROUP_8: Object Group 8
-KB_GROUP_9: Object Group 9
+KB_GROUP_1: Groupe d'objet 1
+KB_GROUP_2: Groupe d'objet 2
+KB_GROUP_3: Groupe d'objet 3
+KB_GROUP_4: Groupe d'objet 4
+KB_GROUP_5: Groupe d'objet 5
+KB_GROUP_6: Groupe d'objet 6
+KB_GROUP_7: Groupe d'objet 7
+KB_GROUP_8: Groupe d'objet 8
+KB_GROUP_9: Groupe d'objet 9
 
-KB_FTL: FTL Selected Ships
-KB_HOLD_POSITION: Hold Position
-KB_PIN: Pin Object
-KB_PIN_FLOATING: Pin Object Floating
+KB_FTL: Sélectionner vaisseau FTL
+KB_HOLD_POSITION: Maintenez la position
+KB_PIN: Épingler objet
+KB_PIN_FLOATING: Épingler objet flottant
 
-KB_OPTIONS_MENU: Open Options Menu
+KB_OPTIONS_MENU: Ouvrir le menu options
 
-OPT_GRAPHICS: Graphics
-OPT_TEX_QUALITY: Texture Quality*
-OPT_RESOLUTION: Resolution*
-OPT_FULLSCREEN: Fullscreen*
-OPT_RESTART: * Option requires program restart to take effect.
+OPT_GRAPHICS: Graphismes
+OPT_TEX_QUALITY: Qualité des textures*
+OPT_RESOLUTION: Résolution*
+OPT_FULLSCREEN: Plein-écran*
+OPT_RESTART: * Vous devez redémarrer le jeu pour que les changements preinnent effets.
 
-MONITOR: Fullscreen Monitor*
-MONITOR_PRIMARY: Primary Monitor
+MONITOR: Moniteur Plein-écran*
+MONITOR_PRIMARY: Moniteur principale
 
-OPT_CAMERA: Camera
-OPT_ZOOM_SPEED: Zoom Speed
-OPT_INVERT_ZOOM: Invert Zoom
-OPT_PAN_SPEED: Pan Speed
-OPT_INVERT_PAN_X: Invert Horizontal Pan
-OPT_INVERT_PAN_Y: Invert Vertical Pan
-OPT_INVERT_ROTATION_X: Invert Horizontal Rotation
-OPT_INVERT_ROTATION_Y: Invert Vertical Rotation
-OPT_FREE_CAMERA: Enable Camera Roll
-OPT_CURSOR_ZOOM_IN: Zoom In to Cursor
-OPT_CURSOR_ZOOM_OUT: Zoom Out from Cursor
-OPT_SHOW_GAS: Show Galaxy Gas
-OPT_EDGE_PAN: Enable Edge Panning
-OPT_DELAY_TOP_EDGE: Delay Top Edge Pan
-OPT_CAPTURE_CURSOR: Capture Cursor
+OPT_CAMERA: Caméra
+OPT_ZOOM_SPEED: Vitesse de zoom
+OPT_INVERT_ZOOM: Inverser le zoom
+OPT_PAN_SPEED: Vitesse horizon
+OPT_INVERT_PAN_X: Inverser horizontal
+OPT_INVERT_PAN_Y: Inverser vertical
+OPT_INVERT_ROTATION_X: Inverser rotation horizontal
+OPT_INVERT_ROTATION_Y: Inverser rotation vertical
+OPT_FREE_CAMERA: Activé la rotation de la caméra
+OPT_CURSOR_ZOOM_IN: Zoom avant curseur
+OPT_CURSOR_ZOOM_OUT: Zoom arrière curseur
+OPT_SHOW_GAS: Afficher le gaz de la galaxie
+OPT_EDGE_PAN: Activer bord panoramique
+OPT_DELAY_TOP_EDGE: Délais bords panoramique supérieur
+OPT_CAPTURE_CURSOR: Capturé le curseur
 
-KG_DesignEditor: Design Editor
-KB_DESIGN_UNDO: Undo
-KB_DESIGN_REDO: Redo
-KB_DESIGN_TOOL_PAINT: Select Paint Tool
-KB_DESIGN_TOOL_MOVE: Select Move Tool
-KB_DESIGN_TOOL_DROP: Select Eyedropper Tool
-KB_DESIGN_SAVE: Save Design
-KB_DESIGN_SAVE_CLOSE: Save and Close Design
-KB_DESIGN_DUPLICATE: Duplicate Design
-KB_DESIGN_EXPORT: Export Design
+KG_DesignEditor: Éditeur de conception
+KB_DESIGN_UNDO: Annuler
+KB_DESIGN_REDO: Refaire
+KB_DESIGN_TOOL_PAINT: Sélectionner outil de peinture
+KB_DESIGN_TOOL_MOVE: Sélectionner outil de mouvement
+KB_DESIGN_TOOL_DROP: Sélectionner outil pipette
+KB_DESIGN_SAVE: Sauvegarder conception
+KB_DESIGN_SAVE_CLOSE: Sauvegarder et fermer la conception
+KB_DESIGN_DUPLICATE: Dupliquer la conception
+KB_DESIGN_EXPORT: Exporter conception
