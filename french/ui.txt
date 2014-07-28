@@ -1,0 +1,117 @@
+BLUEPRINTS: Plans
+OPTIONS: Options
+TAB: Tab
+RESEARCH_OVERVIEW: Aperçu recherche
+DESIGN_OVERVIEW: Aperçu conception
+GALAXY_CAMERA: Caméra Galaxie
+GALAXY: Galaxie
+STATS_TAB: Stats
+SYSTEM_TAB: Système
+PLANETS_TAB: Planète
+PLANETS_MODE_NORMAL: Normal
+PLANETS_MODE_MONEY: Revenu
+PLANETS_MODE_PRODUCTION: Production
+PLANETS_MODE_REQS: Exigences
+NOTICE: Notification
+
+EMPIRE_ENERGY: "Énergie: "
+EMPIRE_SOLARGENS: "Générateurs solaires: "
+EMPIRE_SUPPLY: $1/$2
+EMPIRE_SUPPLY_OUTPUT:$1%
+
+PLANET_INFO: $1 ($2B / $3B)
+PLANET_POPULATION: $1 Milliard de colons
+
+ANOMALY_FIELD: Anomalie
+SCAN_ANOMALY: Scanner anomalie
+INVESTIGATE_ANOMALY: Enquêter sur l'anomalie
+
+BACK_TO_OVERVIEW: Retour au sommaire
+
+CONCEPT: Conception
+CONSTRUCTION: Construction
+MISSION_GOALS: Objectifs mission
+REVIEW: Examiner
+
+BUILT_NOTIFICATION: $1 a été construit.
+BUILT_AT_NOTIFICATION: $1  été construit a $2.
+BUILT_ON_NOTIFICATION: $1  été construit sur $2.
+
+QUEUE_SIZE: $1 ajouter dans la file
+BUILDING_THING: Construction $1 ($2%)
+BUILDING_NOTHING: Rien en construction
+
+DESIGN_SIZE: Taille $1
+CREATE_DESIGN: Créer conception
+CREATE_DESIGN_CLASS: Créer classe
+IMPORT_DESIGNS: Importer conception
+SEARCH_DESIGNS: Chercher conception...
+DESIGN_CLASS_NAME: Conception nom de classe:
+
+DESIGN_NAME_INPUT: Nom:
+DESIGN_CLASS_INPUT: Classe:
+DESIGN_SIZE_INPUT: Taille:
+DESIGN_HULL_INPUT: Coque:
+MINSIZE_SUPPORT: Taille $1+, Support
+MINSIZE_FLAGSHIP: Taille $1+, Vaisseau amiral
+
+DESIGN_PAINT_TOOL: Outil peinture\nNe peut être utilisée pour déplacement les modules.\nPressez alt pour mini-gouttes.
+DESIGN_MOVE_TOOL: Move Hex Tool\nHold shift to move subsystems.\nHold control to duplicate.
+DESIGN_DROP_TOOL: Outil Pipette
+DESIGN_CLEAR: Effacer conception
+
+GRAPHICS_EDITOR: Éditeur graphique
+MODULES: Modules
+
+WEAPONS: Armes
+DEFENSES: Défenses
+
+SAVE_GAME_DATA: Enregistrer dans les données de jeu
+SAVE_GAME_DATA_CONFIRM: Etes-vous sûr de vouloir écraser les données de jeu?
+RESET_GAME_DATA: Rétablir les données du jeu
+RESET_GAME_DATA_CONFIRM: Etes-vous sûr que vous souhaitez réinitialiser les données de jeu?
+MUTATION_CHANCE: Chance de mutation:
+NAME_COUNT: $1 noms
+
+CONFIRM_OVERWRITE: Etes-vous sûr de vouloir écraser '$1'?
+CONFIRM_DELETE_FILES: Etes-vous sûr que vous voulez supprimer tous les fichiers / répertoires et les fichiers suivants ?
+FILENAME_LABEL: Nom du fichier:
+NEW_DIRECTORY: Nouveau Dossier
+CREATE_DIRECTORY: Créer Dossier
+DIRECTORY_LABEL: Dossier:
+
+PLAY_EMPIRE_TITLE: Sélectionner Empire
+SPECTATE: Spectateur
+PLAY_EMPIRE: Jouer Empire
+
+FREE_RESOURCES: Ressources Inutilisés
+DISABLED_RESOURCES: Ressources Désactivés
+DECAYING_PLANETS: Décomposition des Planètes
+LABOR_PLANETS: Planètes / Stations avec travail
+DEFENSE_PLANETS: Planètes avec Défense
+COLONIZING_PLANETS: Partiellement Colonisée
+INFLUENCE_STACK: Influence
+WONDER_PLANETS: Vos merveilles
+UNDER_SIEGE_PLANETS: Planète en siège
+ALL_FLEETS: Tous les Vaisseau amiral
+COMBAT_FLEETS: Vaisseau amiral en combat
+AVAIL_ARTIFACTS: Artefacts disponibles
+
+GO_RESOURCE: $1
+GO_RESOURCE_TYPE: Trouver des ressources
+
+TT_GAMETIME: <<|
+	Affichage du temps de jeu en cours depuis que le jeu a commencé.
+
+	[i]Cliquez pour basculer à l'heure réel.[/i]
+>>
+TT_REALTIME: <<|
+	Affichage du temps réel en cours de la journée.
+
+	[i]Cliquez pour basculer à l'heure du jeu.[/i]
+>>
+TT_PAUSE: Mettre le jeu en pause.
+TT_SLOWER: Diminue la vitesse de jeu.
+TT_FASTER: Augmente la vitesse de jeu.
+PAUSED: PAUSE
+WAITING: EN ATTENTE

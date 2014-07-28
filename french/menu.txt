@@ -1,0 +1,151 @@
+START_GAME: Lancer une partie
+GAME_SETTINGS: Options
+CHANGE_MAP: Changer de map
+SELECT_MAP: Vous sélecionnez la carte maintenant ?
+SYSTEM_COUNT: Nombre de systèmes:
+ADD_AI: Ajouter IA
+MENU_EMPIRES: Empires
+MENU_GAME_SETTINGS: Options du jeu
+MENU_GALAXIES: Galaxies
+MENU_GAMES: Jeu
+HANDICAP: Handicap
+
+MAIN_MENU: Menu principal
+PAUSED_MENU: Pause
+RESUME_GAME: Reprendre
+RETURN_TO_GAME: Retour au jeu
+NEW_GAME: Nouvelle partie
+SAVE_GAME: Sauvegarder la partie
+LOAD_GAME: Charger une partie
+MULTIPLAYER: Multijoueurs
+MP_JOIN: Rejoindre
+MENU_BACK: Retour
+MENU_OPTIONS: Options
+QUIT_GAME: Quitter
+OPEN_IRC: Ouvrir le chat IRC
+CLOSE_IRC: Déconnection du chat IRC
+IRC_NICKNAME: Nom: $1
+NICKNAME: Nom:
+CHANGE_NICK: Changer
+SAVE_NO_COMPAT: <<|
+	La sauvegarde que vous avez tenter de charger proviennent d'une ancienne version du jeu,
+	et ne peut malheureusement pas être charger.
+
+	L'équipe de développement présente ses excuses pour la gêne occasionnée.
+>>
+
+MP_OPTIONS: Options Multijoeuurs
+MP_HOST_OPTIONS: Options Hébergeur
+MP_HOST: Héberger
+MP_SERVER_NAME: Nom serveur
+MP_PORT: Port
+MP_HOST_LOAD: Héberger & Charger
+MP_PUBLIC: Publique
+MP_PUNCHTHROUGH: NAT
+MP_VERSION_MISMATCH: (VERSION INCOMPATIBLE)
+MP_ENTER_PASSWORD: Mot-de-passe requis
+MP_CHAT_INTRO: [i][color=#aaa]Pressez Maj+Retour pour ré-ouvrir la fenêtre de chat après l'avoir fermé...[/color][/i]
+MP_NOT_READY: Pas prêt
+MP_READY: Prêt
+MP_PLAYER_READY: Joueur prêt à lancer la partie.
+MP_PLAYER_NOT_READY: Joueur pas prêt pour lancer la partie.
+MP_CONFIRM_NOT_READY: Tous les joueurs n'ont pas indiquer qu'ils sont prêt à lancer la partie. Commencer la partie malgré-tout ?
+MP_CANNOT_CONNECT: Impossible de se connecter au serveur
+MP_WAITING_START: En attente du serveur pour démarrer la partie
+MP_WAITING_TRANSFER: Chargement de la partie
+MP_IRC_CHAT: Ouvrir la fenêtre de chat IRC
+MP_NO_GAMES: Aucunes parties multijoueurs n'est actifs...
+INVITE_FRIEND: Inviter Amie
+
+CHOOSE_MAP: Choisir la carte
+ADD_GALAXY: Ajouter galaxie
+
+SYSTEM_COUNT: Nombre de systèmes solaire
+FLATTEN: Aplatir
+
+TEX_QUAL_2: Mauvais
+TEX_QUAL_3: Moyen
+TEX_QUAL_4: Haut
+TEX_QUAL_5: Ultra
+
+RESOLUTION: Résolution
+RES_DESKTOP: Bureau
+FULLSCREEN: Plein-écran
+
+NG_WARN_PEREMP: <<|
+	[b][color=#f00]Attention:[/color][/b] Vous créez une grande carte avec plus de 25 systèmes par empire,
+	votre expérience de jeu peut être affectée négativement par le rythme beaucoup plus lent de jeu.
+
+	Nous vous recommandons de jouer avec environ 10-20 systèmes solaire par empires pour
+	des résultats optimale.
+
+	[b]Procédez malgré tout ?[/b]
+>>
+NG_WARN_OPTIMAL: <<|
+	[b][color=#f00]Attention:[/color][/b] Vous créez une grande carte de plus de 150 systèmes solaire. Le jeu
+	avec ce nombre de systèmes solaire peuvent ne pas fonctionner de facçon optimale sur les PC bas de gamme, et peut
+	entrainer des ralentissement graphique voir des ralentissement en cours de partie.
+
+	Nous vous recommandons de jouer avec environ 10-20 systèmes solaire par empires pour
+	des résultats optimale.
+
+	[b]Procédez malgré tout ?[/b]
+>>
+NG_WARN_BAD: <<|
+	[b][color=#f00]Attention:[/color][/b] Vous créez une carte extrêmement grande de plus de 400 systèmes solaire.
+	Le jeu avec ce nombre de systèmes solaire peuvent ne pas fonctionner de facçon optimale sur les PC haut de gamme, et peut
+	entrainer des ralentissement graphique voir des ralentissement en cours de partie.
+
+	Nous vous recommandons de jouer avec environ 10-20 systèmes solaire par empires pour
+	des résultats optimale.
+
+	[b]Procédez malgré tout ?[/b]
+>>
+NG_WARN_OHGOD: <<|
+	[b][color=#f00]Attention:[/color][/b] Vous créez une carte de dingue avec plus de 1000 systèmes solaire.
+
+	Sauf si vous venez [b]du fuuuuuture[/b] et que vous jouez à Star Ruler 2
+	avec un modem 2038 de Core i42, votre jeu [b]aura[/b] d'énormes ralentissements
+	dans le jeu.
+
+	Nous vous recommandons de jouer avec environ 10-20 systèmes solaire par empires pour
+	des résultats optimale.
+
+	[b]Procédez malgré tout ? (vous êtes fou)[/b]
+>>
+
+IRC_HELP: <<
+	Commandes disponible:
+
+	/msg <nom> <message> - Envoyé un message privé.
+	/me <message> - Envoyer un message d'action.
+	/join #<channel> - Rejoindre un channel différent.
+	/part - Parti du channel en cours.
+	/close - Fermer le channel / mp en cours.
+	/nick <nouveau_nom> - Changer votre nom.
+
+	Les commandes qui nécessitent des privilèges supplémentaires:
+
+	/topic <nouveau_sujet> - Change le sujet dans le canal actuel.
+	/mode <params> - Change le mode du canal.
+	/umode <params> - Change le mode utilisateur
+	/kick <nickname> - Kick un utilisateur du canal
+>>
+
+IRC_JOIN: [color=$3]$1[/color] a rejoin $2
+IRC_PART: [color=$3]$1[/color] a quitter $2
+IRC_QUIT: [color=$3]$1[/color] a quitter
+IRC_ACTION: [color=$3]$1[/color] $2
+IRC_NICK: [color=$3]$1[/color] est maintenant connu comme [color=$4]$2[/color]
+IRC_KICK: [color=$3]$1[/color] a été kicker [color=$4]$2[/color]
+IRC_TOPIC: [color=$3]$1[/color] a changer le sujet en '$2'
+IRC_TOPIC_IS: Topic for $1 est: $2
+IRC_MODE: [color=$3]$1[/color] définit le mode $2
+IRC_UMODE: [color=$3]$1[/color] définit le mode utilisateur $2
+
+DISCONNECT_0: Connexion expiré
+DISCONNECT_1: Erreur de connexion
+DISCONNECT_2: Connexion fermé
+DISCONNECT_3: Kicker par le serveur
+DISCONNECT_4: Version incompatible
+DISCONNECT_5: Mot-de-passe incorrect

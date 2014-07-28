@@ -1,0 +1,5 @@
+SPIRAL_GALAXY: Galaxie spirale
+SPIRAL_GALAXY_DESC: Une galaxie en spirale à multiple bras.
+
+DISC_GALAXY: Galaxie disque
+DISC_GALAXY_DESC: Une galaxie répartie sur un seule disque
