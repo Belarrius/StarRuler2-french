@@ -1,15 +1,15 @@
-STAT_Ships: Ships
-STAT_ShipsBuilt: Ships Built
-STAT_ShipsLost: Ships Lost
-STAT_ShipsDestroyed: Ships Destroyed
+STAT_Ships: Vaisseaux
+STAT_ShipsBuilt: Vaisseaux construit
+STAT_ShipsLost: Vaisseaux perdu
+STAT_ShipsDestroyed: Vaisseaux détruit
 
-STAT_Planets: Planets
-STAT_Planets_EVT_Lost: $1 Lost
-STAT_Planets_EVT_Colonized: $1 Colonized
-STAT_Planets_EVT_Conquered: $1 Conquered
+STAT_Planets: Planètes
+STAT_Planets_EVT_Lost: $1 Perdu
+STAT_Planets_EVT_Colonized: $1 Colonisé
+STAT_Planets_EVT_Conquered: $1 Conquis
 STAT_Planets_EVT_Glassed: $1 Glassed
 
-STAT_SupplyGen: Supply Generation
-STAT_SupplyUse: Supply Consumption
-STAT_MetalsGen: Metal Generation
-STAT_MetalsUse: Metal Consumption
+STAT_SupplyGen: Génération de Provision
+STAT_SupplyUse: Consommation de Provision
+STAT_MetalsGen: Génération de Metal
+STAT_MetalsUse: Consommation de Metal
