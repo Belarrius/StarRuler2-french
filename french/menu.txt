@@ -1,7 +1,7 @@
 START_GAME: Lancer une partie
 GAME_SETTINGS: Options
 CHANGE_MAP: Changer de map
-SELECT_MAP: Vous sélecionnez la carte maintenant ?
+SELECT_MAP: Sélectionner la carte maintenant ?
 SYSTEM_COUNT: Nombre de systèmes:
 ADD_AI: Ajouter IA
 MENU_EMPIRES: Empires
