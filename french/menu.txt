@@ -60,7 +60,7 @@ INVITE_FRIEND: Inviter Amis
 CHOOSE_MAP: Choisir la carte
 ADD_GALAXY: Ajouter galaxie
 
-SYSTEM_COUNT: Nombre de systèmes solaire
+SYSTEM_COUNT: Nombre systèmes solaire
 FLATTEN: Aplatir
 
 TEX_QUAL_2: Mauvais

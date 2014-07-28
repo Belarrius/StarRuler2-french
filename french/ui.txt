@@ -44,7 +44,7 @@ BUILDING_NOTHING: Rien en construction
 DESIGN_SIZE: Taille $1
 CREATE_DESIGN: Créer conception
 CREATE_DESIGN_CLASS: Créer classe
-IMPORT_DESIGNS: Importer conception
+IMPORT_DESIGNS: Importer...
 SEARCH_DESIGNS: Chercher conception...
 DESIGN_CLASS_NAME: Conception nom de classe:
 

@@ -88,7 +88,6 @@ COLONIZE: Coloniser
 TT_COLONIZE: <<|
 	[b]Coloniser[/b]
 
-	Send 1B population from the planet to another unoccupied planet to colonize it.
 	Envoie une population de 1M sur une planète inoccupé pour la coloniser.
 >>
 TT_COLONIZE_THIS: <<|
