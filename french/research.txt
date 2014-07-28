@@ -1,13 +1,13 @@
-PROJECT: Project
-PROJECTS: Projects
-LABEL_NAME: Name:
-LABEL_UNLOCKS: Next Level:
-REQUIRES_INSIGHT: Costs
-RESEARCH_PROJECT: Research
-PROJECT_COMPLETED: [i]Completed[/i]
-AVAIL_INSIGHTS: Available Insights
-NO_INSIGHTS: No available insights... You will gain a random insight every $1 technology levels.
-NO_PROJECTS: No available projects... Level up technology fields to gain projects.
+PROJECT: Projet
+PROJECTS: Projets
+LABEL_NAME: Nom:
+LABEL_UNLOCKS: Niveau suivant:
+REQUIRES_INSIGHT: Coût
+RESEARCH_PROJECT: Recherche
+PROJECT_COMPLETED: [i]Compléter[/i]
+AVAIL_INSIGHTS: Découvertes disponibles
+NO_INSIGHTS: Pas de découvertes de disponibles... Vous allez acquérir une connaissance aléatoire tout les 1$ niveaux de technologie..
+NO_PROJECTS: Pas de projets disponible... Augmenter le niveau dans le domaine pour gagner des projets.
 
 RES_UPGRADE: Upgrade
 RES_UPGRADE_TT: <<|
