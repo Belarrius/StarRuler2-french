@@ -34,8 +34,8 @@ MISSION_GOALS: Objectifs mission
 REVIEW: Examiner
 
 BUILT_NOTIFICATION: $1 a été construit.
-BUILT_AT_NOTIFICATION: $1  été construit a $2.
-BUILT_ON_NOTIFICATION: $1  été construit sur $2.
+BUILT_AT_NOTIFICATION: $1 été construit a $2.
+BUILT_ON_NOTIFICATION: $1 été construit sur $2.
 
 QUEUE_SIZE: $1 ajouter dans la file
 BUILDING_THING: Construction $1 ($2%)

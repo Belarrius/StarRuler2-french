@@ -4,7 +4,7 @@ SHIPS: Vaisseaux
 ORBITALS: Stations
 POPULATION: Population
 MAX_POPULATION: Population Maximum
-COLONIZE_WITH: Coloniser with $1 (ETA $2 minutes)
+COLONIZE_WITH: Coloniser avec $1 (ETA $2 minutes)
 AUTO_COLONIZE: Coloniser
 CANCEL_AUTO_COLONIZE: Arrêter la conolisation
 COLONIZE_CONTINUE: Continuer la colonisation
@@ -59,7 +59,7 @@ TERRAFORM_OPTION: Terraformer...
 TERRAFORM_ITEM: $1 ($2, $3 Travail)
 BUILD_TERRAFORM: Terraformation $2 sur $1
 BUILD_DRY_DOCK: Cale sèche: $1
-EXPORT_LABOR: Expoirter travail a $1
+EXPORT_LABOR: Exporter travail a $1
 WORK_DRY_DOCK: Travaux sur la cale sèche
 FINANCE_OPTION: Finance...
 FINANCE_DRY_DOCK: Financement cale sèche: $1

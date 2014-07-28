@@ -2,4 +2,4 @@ MOVE_TO: Bouger vers
 ATTACK: Attaquer
 PICK_UP: Ramasser
 RALLY_TO: Rassemblement pour $1
-STOP_RALLY: Effacer rassemblement
+STOP_RALLY: Arrêter rassemblement
