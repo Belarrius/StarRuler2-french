@@ -1,81 +1,81 @@
-ART_COMET: Comet
-ABL_GENERATE_WATER: Generate Water
+ART_COMET: Comète
+ABL_GENERATE_WATER: Produire de l'eau
 ABL_GENERATE_WATER_DESC: <<|
-	Adds a native water resource on the targeted planet.
+	Ajoute une ressource native en eau sur la planète ciblée.
 >>
 
-ART_COMMAND_COMPUTER: Command Computer
-ABL_EXPAND_FLEET: Equip Command Computer
+ART_COMMAND_COMPUTER: Ordinateur de commandement
+ABL_EXPAND_FLEET: Équipe d'un ordinateur de commandement
 ABL_EXPAND_FLEET_DESC: <<|
-	Expand the targeted fleet's support capacity by 500
+	Augmente la capacité de support de la flotte ciblée par 500.
 	
-	An equipped flagship has a high chance to drop the computer when destroyed.
+	Lorsqu'un vaisseau amiral en est équiper, il as une grande chance de laisser tomber l'ordinateur lors de sa destruction.
 >>
-STATUS_COMMAND_COMPUTER: Command Computer
+STATUS_COMMAND_COMPUTER: Ordinateur de commandement
 STATUS_COMMAND_COMPUTER_DESC: <<|
 	Carrying Command Computer artifact.
 
-	Fleet support capacity increased by 500.
-	May drop when flagship is destroyed.
+	Capacié de support de la flotte augmené de 500.
+	Peut être ramasser lorsque le vaisseau amiral est détruit.
 >>
 
-ART_POWER_CELL: Power Cell
-ABL_OVERCHARGE_FLEET: Equip Power Cell
+ART_POWER_CELL: Cellule énergétique
+ABL_OVERCHARGE_FLEET: Équipe d'une cellule énergétique
 ABL_OVERCHARGE_FLEET_DESC: <<|
-	Increase the targeted fleet's effectiveness by 50%.
+	Accroît l'efficacité de la flotte ciblée de 50%.
 	
-	A single cell can be equipped per fleet.
-	An equipped flagship has a high chance to drop the cell when destroyed.
+	Une seule cellule peut être équipé par la flotte.
+	Lorsqu'un vaisseau amiral en est équiper, il as une grande chance de laisser tomber la cellule énergétique lors de sa destruction.
 >>
-STATUS_POWER_CELL: Power Cell
+STATUS_POWER_CELL: Cellule énergétique
 STATUS_POWER_CELL_DESC: <<|
-	Carrying Power Cell artifact.
+	Porteur de l'artefact cellule énergétique.
 
-	Fleet Effectiveness increased by 50%.
-	May drop when flagship is destroyed.
+	Capacié de support de la flotte augmené de 50%.
+	Peut être ramasser lorsque le vaisseau amiral est détruit.
 >>
 
-ART_NATURE_DEVICE: Arcology
-ABL_DEVELOP_PLANET: Develop Planet
+ART_NATURE_DEVICE: Arcologie
+ABL_DEVELOP_PLANET: Développer planète
 ABL_DEVELOP_PLANET_DESC: <<|
-	Increase the maximum population on the targeted planet by 10.
+	Augmente la population maximale sur la planète ciblée de 10.
 >>
 
-ART_TELESCOPE: Telescope
-ABL_TELESCOPE: Use Telescope
+ART_TELESCOPE: Téléscope
+ABL_TELESCOPE: Utiliser téléscope
 ABL_TELESCOPE_DESC: <<|
-	Grants vision over the targeted system and all systems adjacent to it for
+	Permet de rendre visible la cible et les systèmes environnent pendant 
 	5 minutes.
 
-	Unlimited uses.
+	Utilisation illimité.
 >>
 
-ART_BUSTER_MACHINE: Buster Machine
-ABL_BUST_PLANET: Bust Planet
+ART_BUSTER_MACHINE: Machine de destruction
+ABL_BUST_PLANET: Détruire planète
 ABL_BUST_PLANET_DESC: <<|
-	Destroy target level 0 planet, leaving behind several asteroids.
+	Permet de détruire la planète visé de niveau 0 laissant derrière lui plusieurs astéroïdes.
 >>
-NOTIFY_BUST_PLANET: The [color=$2]$1[/color] have activated a [b]Buster Machine[/b] and blown [color=$4]$3[/color] to bits!
+NOTIFY_BUST_PLANET: Le [color=$2]$1[/color] a activé la [b]Machine de destruction[/b] et a exploser [color=$4]$3[/color] en milles morceaux !
 
-ART_SPY_PROBE: Espionage Probe
-ABL_GAIN_LEVERAGE: Gain Leverage
+ART_SPY_PROBE: Sonde d'espionnage
+ABL_GAIN_LEVERAGE: Gain d'influance
 ABL_GAIN_LEVERAGE_DESC: <<|
-	Gain leverage cards against all empires that control planets in the
-	targeted system.
+	Donne des cartes d'influance contre tous les empires qui contrôlent les planètes 
+	dans le système solaire cible
 >>
 
-ART_ANCIENT_EMBASSY: Ancient Embassy
-ABL_ANCIENT_EMBASSY: Reactivate Embassy
+ART_ANCIENT_EMBASSY: Ambassade antique
+ABL_ANCIENT_EMBASSY: Réactiver l'ambassade
 ABL_ANCIENT_EMBASSY_DESC: <<|
-	Place an Ancient Embassy orbital at the targeted location.
+	Placer une station ambassade antique à l'emplacement ciblé.
 >>
 
-ART_GENESIS_DEVICE: Genesis Device
-ABL_GENESIS_DEVICE: Terraform Planet
+ART_GENESIS_DEVICE: Périphérique de génèse
+ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
-	Instantly terraform target owned planet to a random Level 2 resource.
+	Terraforme instantanément la cible en une planète de ressource aléatoire de niveau 2.
 	
-	Removes all current native resources.
+	Supprime toutes les ressources native actuels.
 >>
 
-ART_MIND_CONTROL: Mind Control Device
+ART_MIND_CONTROL: Dispositif de contrôle de l'esprit
