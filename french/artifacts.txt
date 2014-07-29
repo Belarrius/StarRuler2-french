@@ -44,30 +44,30 @@ ABL_DEVELOP_PLANET_DESC: <<|
 ART_TELESCOPE: Téléscope
 ABL_TELESCOPE: Utiliser téléscope
 ABL_TELESCOPE_DESC: <<|
-	Permet de rendre visible la cible et les systèmes environnent pendant 
+	Rend visible la cible et les systèmes environnent pendant 
 	5 minutes.
 
-	Utilisation illimité.
+	Utilisations illimité.
 >>
 
 ART_BUSTER_MACHINE: Machine de destruction
 ABL_BUST_PLANET: Détruire planète
 ABL_BUST_PLANET_DESC: <<|
-	Permet de détruire la planète visé de niveau 0 laissant derrière lui plusieurs astéroïdes.
+	Détruit la planète de niveau 0 ciblée, laissant quelques astéroïdes derrière elle.
 >>
-NOTIFY_BUST_PLANET: Le [color=$2]$1[/color] a activé la [b]Machine de destruction[/b] et a exploser [color=$4]$3[/color] en milles morceaux !
+NOTIFY_BUST_PLANET: L'empire [color=$2]$1[/color] a activé la [b]Machine de destruction[/b] et a exploser [color=$4]$3[/color] en mille morceaux !
 
 ART_SPY_PROBE: Sonde d'espionnage
-ABL_GAIN_LEVERAGE: Gain d'influance
+ABL_GAIN_LEVERAGE: Gain d'influence
 ABL_GAIN_LEVERAGE_DESC: <<|
-	Donne des cartes d'influance contre tous les empires qui contrôlent les planètes 
-	dans le système solaire cible
+	Donne des cartes d'influence contre tous les empires qui contrôlent les planètes 
+	dans le système solaire de votre cible.
 >>
 
-ART_ANCIENT_EMBASSY: Ambassade antique
+ART_ANCIENT_EMBASSY: Ancienne ambassade abandonnée
 ABL_ANCIENT_EMBASSY: Réactiver l'ambassade
 ABL_ANCIENT_EMBASSY_DESC: <<|
-	Placer une station ambassade antique à l'emplacement ciblé.
+	Placer une ancienne ambassade abandonnée à l'emplacement ciblé.
 >>
 
 ART_GENESIS_DEVICE: Périphérique de génèse
