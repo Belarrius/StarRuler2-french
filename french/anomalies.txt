@@ -1,5 +1,5 @@
 ANOMALY_DEBRIS_FIELD: Champ de débris
-ANOMALY_NOTIFICATION: Les anomalies dans $1 ont été entièrement scanner.
+ANOMALY_NOTIFICATION: L'anomalie dans $1 a été entièrement scannée.
 SCAN_PROGRESS: Scanner avec un vaisseau pour accéder aux options...
 ANOMALY_CHOICES: Options
 

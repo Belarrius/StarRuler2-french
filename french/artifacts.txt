@@ -4,35 +4,35 @@ ABL_GENERATE_WATER_DESC: <<|
 	Ajoute une ressource native en eau sur la planète ciblée.
 >>
 
-ART_COMMAND_COMPUTER: Ordinateur de commandement
-ABL_EXPAND_FLEET: Équipe d'un ordinateur de commandement
+ART_COMMAND_COMPUTER: Système de commandement
+ABL_EXPAND_FLEET: Équipe d'un Système de commandement
 ABL_EXPAND_FLEET_DESC: <<|
 	Augmente la capacité de support de la flotte ciblée par 500.
 	
-	Lorsqu'un vaisseau amiral en est équiper, il as une grande chance de laisser tomber l'ordinateur lors de sa destruction.
+	Le système de commandement à une grande chance d'être laissé intacte lorsque le vaisseau amiral est détruit.
 >>
-STATUS_COMMAND_COMPUTER: Ordinateur de commandement
+STATUS_COMMAND_COMPUTER: Système de commandement
 STATUS_COMMAND_COMPUTER_DESC: <<|
 	Carrying Command Computer artifact.
 
 	Capacié de support de la flotte augmené de 500.
-	Peut être ramasser lorsque le vaisseau amiral est détruit.
+	Peu résister a la destruction du vaisseau amiral.
 >>
 
 ART_POWER_CELL: Cellule énergétique
-ABL_OVERCHARGE_FLEET: Équipe d'une cellule énergétique
+ABL_OVERCHARGE_FLEET: Équipe la cellule énergétique
 ABL_OVERCHARGE_FLEET_DESC: <<|
 	Accroît l'efficacité de la flotte ciblée de 50%.
 	
 	Une seule cellule peut être équipé par la flotte.
-	Lorsqu'un vaisseau amiral en est équiper, il as une grande chance de laisser tomber la cellule énergétique lors de sa destruction.
+	La cellule énergétique à une grande chance d'être laissé intacte lorsque le vaisseau amiral est détruit
 >>
 STATUS_POWER_CELL: Cellule énergétique
 STATUS_POWER_CELL_DESC: <<|
 	Porteur de l'artefact cellule énergétique.
 
 	Capacié de support de la flotte augmené de 50%.
-	Peut être ramasser lorsque le vaisseau amiral est détruit.
+	Peu résister a la destruction du vaisseau amiral
 >>
 
 ART_NATURE_DEVICE: Arcologie
