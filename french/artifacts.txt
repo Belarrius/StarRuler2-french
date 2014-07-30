@@ -64,16 +64,16 @@ ABL_GAIN_LEVERAGE_DESC: <<|
 	dans le système solaire de votre cible.
 >>
 
-ART_ANCIENT_EMBASSY: Ancienne ambassade abandonnée
+ART_ANCIENT_EMBASSY: Ambassade antique
 ABL_ANCIENT_EMBASSY: Réactiver l'ambassade
 ABL_ANCIENT_EMBASSY_DESC: <<|
-	Placer une ancienne ambassade abandonnée à l'emplacement ciblé.
+	Ancre une ambassade antique sur l'emplacement ciblé.
 >>
 
 ART_GENESIS_DEVICE: Périphérique de génèse
 ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
-	Terraforme instantanément la cible en une planète de ressource aléatoire de niveau 2.
+	Terraforme instantanément la planète ciblée en une ressource aléatoire de niveau 2.
 	
 	Supprime toutes les ressources native actuels.
 >>
