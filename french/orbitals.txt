@@ -1,4 +1,4 @@
-ORBITAL_REPACK: Pack up Orbital
+ORBITAL_REPACK: Démonter
 PROMPT_SCUTTLE: Destroy $1?
 ORB_TT_COST: Cost: $1, $2 Labor
 ORBITAL_MODULES: Modules
@@ -20,9 +20,9 @@ TT_MANAGE_ORBITAL: <<|
 >>
 
 TT_PACKUP_ORBITAL: <<|
-	[b]Pack Up Orbital[/b]
+	[b]Démonterl[/b]
 
-	Pack the orbital back into a ship in order to move it around.
+	Démonter dans le vaisseau afin de le déplacer.
 >>
 
 SHIPYARD: Shipyard
