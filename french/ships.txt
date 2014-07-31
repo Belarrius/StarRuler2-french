@@ -37,8 +37,8 @@ PICKUP_DRYDOCK_DESC: Donne 120 points de progression de la recherche et contient
 PICKUP_ASTEROID: Base minière
 PICKUP_ASTEROID_DESC: Crée une base d'exploitation minière sur un astéroïdes dont vous êtes propriétaire..
 
-ABL_FULLBURST: Full Burst
-ABL_MISSILE_STORM: Missile Storm
+ABL_FULLBURST: Full Burst // besoin de traduction
+ABL_MISSILE_STORM: Missile tempête
 ABL_RELOCATE_ALL: Transistential Relocate
 ABL_CHARGE_ALL: Hyperspace Supplypulse
 ABL_MIGRATE_ALL: Accelerated Migration

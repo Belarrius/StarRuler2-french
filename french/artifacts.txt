@@ -75,7 +75,7 @@ ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
 	Terraforme instantanément la planète ciblée en une ressource aléatoire de niveau 2.
 	
-	Supprime toutes les ressources native actuels.
+	Supprime toutes les ressources native présentes sur la planète.
 >>
 
-ART_MIND_CONTROL: Dispositif de contrôle de l'esprit
+ART_MIND_CONTROL: Système de contrôle mental

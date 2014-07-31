@@ -64,8 +64,8 @@ NEWER: Récent
 PASSED: Passé
 FAILED: Manqué
 PROPOSE: Proposer
-USE: Utilisez
-HEALTH: Vie // A voir si on garde ce mot...
+USE: Utiliser
+HEALTH: PV // A l'air de correspondre
 ENERGY: Énergie
 FLEET_STRENGTH: Puissance flotte
 SCUTTLE: Saborder
@@ -81,7 +81,7 @@ CUSTOMIZE: Personnaliser
 PASSWORD: Mot-de-passe
 CHAT: Chat
 DISCONNECT: Déconnecté du serveur
-WORMHOLE: Trou de ver
+WORMHOLE: Trou-de-ver
 NEXT: Suivant
 PREVIOUS: Précédent
 CLOSE: Fermer // A vérifier si sa coïncide
