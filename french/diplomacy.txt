@@ -30,7 +30,7 @@ DIPLOMACY_BACK: Retour à Diplomatie
 VIEW_NEGOTIATIONS: Voir négociations
 VIEW_VOTE_HISTORY: Voir historique
 VOTE_HISTORY: Historique des propositions
-CARD_STACK: Influances et des Évènements en attende
+CARD_STACK: Influances et Évènements en attende
 AVAILABLE_CARDS: Actions diplomatique disponible
 CARD_COST: $1 Influence
 CARD_COST_SPLIT: $1+$2 Influence
@@ -50,9 +50,9 @@ SUPPORT: Soutien
 OPPOSE: S'opposer
 EFFECT_DISMISS: Rejeter
 EFFECT_UPKEEP: $1% Entretien
-INFLUENCE_UPKEEP: Entretien:
+INFLUENCE_UPKEEP: Prix d'entretien:
 CARD_GENERIC: Tout
-CARD_DESC_COST: Prix en Influence:
+CARD_DESC_COST: Prix Influence:
 CARD_DESC_WEIGHT: Importance: // a vérifier si sa va avec le theme
 CARD_PURCHASE_MONEY: Coût d'achat:
 CARD_PURCHASE_INFLUENCE: Coût d'achat:
