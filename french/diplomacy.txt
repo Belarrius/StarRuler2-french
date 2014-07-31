@@ -1,65 +1,65 @@
-DIPLOMACY: Diplomacy
-POLITICAL: Political
-POLITICAL_STRENGTH: Political Strength:
-MILITARY_STRENGTH: Military Strength:
-TERRITORY_STRENGTH: Territory:
-MILITARY: Military
-STR_WEAK: Weak
-STR_AVERAGE: Average
-STR_STRONG: Strong
-PEACEFUL: Peaceful
-WAR: War
-WAR_STATUS: $1: Diplomatic Relations
-WAR_STATUS_WAR: The $1 has [color=#f00]declared war[/color]!
-WAR_STATUS_PROPOSE: The $1 has sent a [color=#0f0]peace offer[/color]!
-WAR_STATUS_ACCEPT: The $1 has [color=#0f0]accepted[/color] our peace offer!
-WAR_EVT: [color=#fb0]Contested:[/color] $1
-WAR_EVT_CONTEST: $1 is [color=#fb0]under attack[/color]!
-WAR_EVT_LOST: $1 has been [color=#f00]lost[/color]...
+DIPLOMACY: Diplomatie
+POLITICAL: Politique
+POLITICAL_STRENGTH: Force politique:
+MILITARY_STRENGTH: Force militaire:
+TERRITORY_STRENGTH: Térritoire:
+MILITARY: Militaire
+STR_WEAK: Faible
+STR_AVERAGE: Moyen
+STR_STRONG: Fort
+PEACEFUL: Pacifique
+WAR: Guerre
+WAR_STATUS: $1: Relations diplomatique
+WAR_STATUS_WAR: L'empire $1 a [color=#f00]déclaré la guerre[/color] !
+WAR_STATUS_PROPOSE: L'empire $1 a envoyé une [color=#0f0]offre de paix[/color] !
+WAR_STATUS_ACCEPT: L'empire $1 a [color=#0f0]accepter[/color] votre offre de paix !
+WAR_EVT: [color=#fb0]Contester:[/color] $1
+WAR_EVT_CONTEST: $1 est [color=#fb0]attaqué[/color] !
+WAR_EVT_LOST: $1 à été [color=#f00]perdu[/color]...
 EMPIRE_INFLUENCE: $1 influence
 EMPIRE_POINTS: $1 points
-EMPIRE_STRENGTH: $1 strength
-EMPIRE_PLANETS: $1 planets
-ACTIVE_VOTES: Active Propositions
-ACTIVE_INFLUENCE_EFFECTS: Active Effects
-ELECT_VOTE: Run for Senate Leader
-UNIFY_VOTE: Reach for Galactic Unification
-SAY_LABEL: Say:
-TIME_REMAINING: Remaining Time:
-DIPLOMACY_BACK: Back to Diplomacy
-VIEW_NEGOTIATIONS: View Negotiations
-VIEW_VOTE_HISTORY: View History
-VOTE_HISTORY: Proposition History
-CARD_STACK: Influence Peddling and Events
-AVAILABLE_CARDS: Available Diplomatic Actions
+EMPIRE_STRENGTH: $1 force
+EMPIRE_PLANETS: $1 planètes
+ACTIVE_VOTES: Propositions actifs
+ACTIVE_INFLUENCE_EFFECTS: Affects actifs
+ELECT_VOTE: Run for Senate Leader // besoin d'aide
+UNIFY_VOTE: Reach for Galactic Unification // besoin d'aide
+SAY_LABEL: Dire:
+TIME_REMAINING: Temps restant:
+DIPLOMACY_BACK: Retour à Diplomatie
+VIEW_NEGOTIATIONS: Voir négociations
+VIEW_VOTE_HISTORY: Voir historique
+VOTE_HISTORY: Historique des propositions
+CARD_STACK: Influances et des Évènements en attende
+AVAILABLE_CARDS: Actions diplomatique disponible
 CARD_COST: $1 Influence
 CARD_COST_SPLIT: $1+$2 Influence
-CARD_WEIGHT: $1 Support
-VOTING_HEADER: VOTING
-VOTE_PETITIONER: Petitioner
-VOTE_TARGET: Target
-SENATE_LEADER: Galactic Senate Leader
-PLAY_SUPPORT: Play in Support
-PLAY_OPPOSE: Play in Opposition
-PLAY_NEUTRAL: Play Action
-USES_UNLIMITED: Unlimited
-PURCHASE_CARD: Purchase
-PLAY_CARD: Activate
+CARD_WEIGHT: $1 Soutenir
+VOTING_HEADER: VOTER
+VOTE_PETITIONER: Pétitionnaire
+VOTE_TARGET: Cible
+SENATE_LEADER: Galactic Senate Leader // besoin d'aide
+PLAY_SUPPORT: Faire un soutien
+PLAY_OPPOSE: Faire opposition
+PLAY_NEUTRAL: Faire action
+USES_UNLIMITED: Illimité
+PURCHASE_CARD: Acheter
+PLAY_CARD: Activer
 PLAY_CARD_OPTION: $1 ($2 influence)
-SUPPORT: Support
-OPPOSE: Oppose
-EFFECT_DISMISS: Dismiss
-EFFECT_UPKEEP: $1% Upkeep
-INFLUENCE_UPKEEP: Upkeep:
-CARD_GENERIC: Any
-CARD_DESC_COST: Influence Cost:
-CARD_DESC_WEIGHT: Weight:
-CARD_PURCHASE_MONEY: Purchase Cost:
-CARD_PURCHASE_INFLUENCE: Purchase Cost:
-CARD_PLAY_MONEY: Play Cost:
+SUPPORT: Soutien
+OPPOSE: S'opposer
+EFFECT_DISMISS: Rejeter
+EFFECT_UPKEEP: $1% Entretien
+INFLUENCE_UPKEEP: Entretien:
+CARD_GENERIC: Tout
+CARD_DESC_COST: Prix en Influence:
+CARD_DESC_WEIGHT: Importance: // a vérifier si sa va avec le theme
+CARD_PURCHASE_MONEY: Coût d'achat:
+CARD_PURCHASE_INFLUENCE: Coût d'achat:
+CARD_PLAY_MONEY: Play Cost: // besoin d'aide
 INFLUENCE_POPULATION: Population
-VOTES_FOR: $1 for
-VOTES_AGAINST: $1 against
+VOTES_FOR: $1 pour
+VOTES_AGAINST: $1 contre
 EFFECT_CONFIRM_DISMISS: <<|
 	Are you sure you wish to dismiss this influence effect?
 

@@ -41,10 +41,10 @@ ABL_FULLBURST: Full Burst // besoin de traduction
 ABL_MISSILE_STORM: Missile tempête
 ABL_RELOCATE_ALL: Transistential Relocate
 ABL_CHARGE_ALL: Hyperspace Supplypulse
-ABL_MIGRATE_ALL: Accelerated Migration
+ABL_MIGRATE_ALL: Migration Accélérer
 ABL_UNPACK_GATE: Déployer porte de saut
 ABL_UNPACK_GATE_DESC: Déployer ce vaisseau comme porte de saut, coûte 100 FTL.
-ABL_PACK_ORBITAL: Pack up Orbital
+ABL_PACK_ORBITAL: Remballer // besoin de meilleur traduction
 
 TT_MANAGE_SHIP_SUPPORTS: <<|
 	[b]Manage Supports[/b]
