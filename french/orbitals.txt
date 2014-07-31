@@ -20,9 +20,9 @@ TT_MANAGE_ORBITAL: <<|
 >>
 
 TT_PACKUP_ORBITAL: <<|
-	[b]Démonterl[/b]
+	[b]Démonter[/b]
 
-	Démonter dans le vaisseau afin de le déplacer.
+	Redéploie la porte sous forme de vaisseau afin de le déplacer.
 >>
 
 SHIPYARD: Shipyard
