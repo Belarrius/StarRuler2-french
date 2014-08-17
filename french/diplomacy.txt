@@ -30,7 +30,7 @@ DIPLOMACY_BACK: Retour à Diplomatie
 VIEW_NEGOTIATIONS: Voir négociations
 VIEW_VOTE_HISTORY: Voir historique
 VOTE_HISTORY: Historique des propositions
-CARD_STACK: Influances et Évènements en attende
+CARD_STACK: Influences et Évènements en attende
 AVAILABLE_CARDS: Actions diplomatique disponible
 CARD_COST: $1 Influence
 CARD_COST_SPLIT: $1+$2 Influence
