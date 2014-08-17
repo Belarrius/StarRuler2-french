@@ -56,6 +56,10 @@ MP_WAITING_TRANSFER: Chargement de la partie
 MP_IRC_CHAT: Ouvrir chat IRC
 MP_NO_GAMES: Aucunes parties multijoueurs n'est actuellement présent...
 INVITE_FRIEND: Inviter Amis
+MP_CONNECT_EVENT: $1 a rejoin la partie.
+MP_DISCONNECT_EVENT: $1 s'est déconnecter.
+MP_PLAY_EVENT: $1 joue maintenant avec l'empire $2.
+MP_SPECTATING_EVENT: $1 est maintenant spectateur.
 
 CHOOSE_MAP: Choisir la carte
 ADD_GALAXY: Ajouter galaxie
@@ -71,6 +75,12 @@ TEX_QUAL_5: Ultra
 RESOLUTION: Résolution
 RES_DESKTOP: Bureau
 FULLSCREEN: Plein-écran
+
+NG_DISABLE_TRADE: Désactiver le commerce de marchandises civile
+NGTT_DISABLE_TRADE: <<|
+ Désactive les vaisseaux de commerce civils dans cette partie. Va supprimer tous les mécanisme de raids, mais peut améliorer les performances dans les très grande galaxies.
+>>
+
 
 NG_WARN_PEREMP: <<|
 	[b][color=#f00]Attention:[/color][/b] Vous créez une grande carte avec plus de 25 systèmes par empire,
@@ -149,3 +159,9 @@ DISCONNECT_2: Connexion fermé
 DISCONNECT_3: Kicker par le serveur
 DISCONNECT_4: Version incompatible
 DISCONNECT_5: Mot-de-passe incorrect
+
+
+SANDBOX: Éditeur de conception
+PROMPT_QUIT: Êtes-vous sûr de vouloir quitter le jeu? Tout progrès non sauvegarder sera perdu.
+PROMPT_TUTORIAL: Démarrer le tutoriel maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Procéder ?
+PROMPT_SANDBOX: Démarrer l'editeur de conception maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Procéder ?

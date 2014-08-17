@@ -41,3 +41,20 @@ IMPORT_INTO_CLASS: Importer dans la classe:
 SAVED_CLASS: <Classe sauvegardé>
 EXPORT_DESIGN: Exporter
 DUPLICATE_DESIGN: Dupliquer
+
+SANDBOX_WAR: Combattre !
+SANDBOX_PEACE: Cesser le feu..
+SPAWN_ALLIED: Apparaître allier
+SPAWN_ENEMY: Apparaître ennemi
+SANDBOX_CLEAR: Nettoyer Sandbox
+SANDBOX_CONFIRM_CLEAR: Êtes-vous sûr de vouloir détruire tous les vaisseaux dans le Sandbox ?
+SANDBOX_DESC: Bienvenue dans le sandbox des conceptions !\nLes conceptions sont auto-exporté ici\nUtilisez 'importer conception' pour les charger en jeu.
+SANDBOX_SAVE_EXPORT: Sauver + Exporter
+
+TT_EDIT_DESIGN: Modifier cette conception.
+TT_OBSOLETE_DESIGN: Marquer cette conception comme obsolète. Il n'apparaît plus dans la liste. Les conceptions obsolète ne seront plus construit automatiquement par la défense.
+TT_UNOBSOLETE_DESIGN: Marquer cette conception comme actif, retirant sont statut obsolète.
+SHOW_OBSOLETE: Afficher obsolète
+TT_SHOW_OBSOLETE: Basculer l'affichage des conceptions marquer comme obsolètes.
+TT_SUPPORT_DESIGN: Cette conception utilise une coque de vaisseau de support. Les vaisseaux de support ne peuvent se déplacer de façon indépendante et ne peuvent agir que dans le cadre d'une flotte autour d'un vaisseau mère ou d'une planète.
+TT_FLAGSHIP_DESIGN: Cette conception utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombe de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouver de mieux pour "Support Command" besoin d'avis/d'aide

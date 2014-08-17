@@ -86,3 +86,4 @@ NEXT: Suivant
 PREVIOUS: Précédent
 CLOSE: Fermer // A vérifier si sa coïncide
 SIZE: Taille
+VS: vs
