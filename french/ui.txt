@@ -90,11 +90,12 @@ DECAYING_PLANETS: Décomposition des Planètes
 LABOR_PLANETS: Planètes / Stations avec travail
 DEFENSE_PLANETS: Planètes avec Défense
 COLONIZING_PLANETS: Partiellement Colonisée
-INFLUENCE_STACK: Influence
+INFLUENCE_STACK: Trafic d'influence
 WONDER_PLANETS: Vos merveilles
 UNDER_SIEGE_PLANETS: Planète en siège
-ALL_FLEETS: Tous les Vaisseau amiral
-COMBAT_FLEETS: Vaisseau amiral en combat
+ALL_FLEETS: Tous les Vaisseaux
+COMBAT_FLEETS: Vaisseaux en combat
+FLEETS_LOW_SUPPLY: Flottes en approvisionnement faible // a vérif
 AVAIL_ARTIFACTS: Artefacts disponibles
 
 GO_RESOURCE: $1
