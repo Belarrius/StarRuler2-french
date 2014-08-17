@@ -6,7 +6,11 @@ POPULATION: Population
 MAX_POPULATION: Population Maximum
 COLONIZE_WITH: Coloniser avec $1 (ETA $2 minutes)
 AUTO_COLONIZE: Coloniser
-CANCEL_AUTO_COLONIZE: Arrêter la conolisation
+AUTO_COLONIZE_LEVEL: Coloniser et importer automatiquement au niveau $1
+AUTO_COLONIZE_SYSTEM: Coloniser planètes en $1
+AUTO_COLONIZE_SYSTEM_LEVEL: Coloniser planète en $1 et auto-importer
+STOP_COLONIZE_SYSTEM: Arrêter la colonisation des planètes en $1
+CANCEL_AUTO_COLONIZE: Arrêter la colonisation
 COLONIZE_CONTINUE: Continuer la colonisation
 COLONIZE_CANCEL: Arrêtez la colonisation $1
 LEVEL: Niveau
@@ -65,6 +69,7 @@ FINANCE_OPTION: Finance...
 FINANCE_DRY_DOCK: Financement cale sèche: $1
 FINANCE: Financement
 RENAME_OPTION: Renommer... (1 Influence)
+AUTO_IMPORT_LEVEL: Auto-Importer au niveau $1
 AUTO_IMPORT_OPTION: Auto-Importer $1 Ressource
 AUTO_IMPORT_TWO_OPTION: Auto-Importer $1 et $2 Ressources
 CANCEL_AUTO_IMPORT: Annuler l'importation automatique
@@ -206,7 +211,7 @@ BLD_BASE_DESC: <<
 BLD_BAZAAR: Bazaar
 BLD_BAZAAR_DESC: <<
 	Upgrades from Market.
-	Makes §150k per budget cycle. Uses 2 money pressure.
+	Makes §110k per budget cycle. Uses 2 money pressure..
 >>
 
 BLD_BROADCAST: Broadcast Center
@@ -267,7 +272,7 @@ BLD_LAUNCHPAD_DESC: <<
 
 BLD_MARKET: Market
 BLD_MARKET_DESC: <<
-	Makes §100k per budget cycle. Uses 1 money pressure.
+	Makes §75k per budget cycle. Uses 1 money pressure.
 >>
 
 BLD_MEDIACENTER: Media Center

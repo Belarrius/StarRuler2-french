@@ -2,6 +2,8 @@ ART_COMET: Comète
 ABL_GENERATE_WATER: Produire de l'eau
 ABL_GENERATE_WATER_DESC: <<|
 	Ajoute une ressource native en eau sur la planète ciblée.
+	
+	L'eau ne peut pas être exporté ou lié à d'autres eaux. // Euh planètes non ? voici la phrase officiel : The water cannot be exported or bound to other waters.
 >>
 
 ART_COMMAND_COMPUTER: Système de commandement
@@ -45,9 +47,7 @@ ART_TELESCOPE: Téléscope
 ABL_TELESCOPE: Utiliser téléscope
 ABL_TELESCOPE_DESC: <<|
 	Rend visible la cible et les systèmes environnent pendant 
-	5 minutes.
-
-	Utilisations illimité.
+	15 minutes.
 >>
 
 ART_BUSTER_MACHINE: Machine de destruction

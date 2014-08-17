@@ -38,6 +38,7 @@ MP_OPTIONS: Options Multijoeuurs
 MP_HOST_OPTIONS: Options Hébergeur
 MP_HOST: Héberger
 MP_SERVER_NAME: Nom serveur
+MP_IP: IP
 MP_PORT: Port
 MP_HOST_LOAD: Héberger & Charger
 MP_PUBLIC: Publique
@@ -54,6 +55,7 @@ MP_CANNOT_CONNECT: Impossible de se connecter au serveur
 MP_WAITING_START: En attente du serveur pour démarrer la partie
 MP_WAITING_TRANSFER: Chargement de la partie
 MP_IRC_CHAT: Ouvrir chat IRC
+MP_JOIN_IP: Rejoindre avec IP
 MP_NO_GAMES: Aucunes parties multijoueurs n'est actuellement présent...
 INVITE_FRIEND: Inviter Amis
 MP_CONNECT_EVENT: $1 a rejoin la partie.

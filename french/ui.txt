@@ -12,6 +12,7 @@ PLANETS_MODE_NORMAL: Normal
 PLANETS_MODE_MONEY: Revenu
 PLANETS_MODE_PRODUCTION: Production
 PLANETS_MODE_REQS: Exigences
+PLANETS_MODE_TILES: Surface Tiles // Besoin d'aide
 NOTICE: Notification
 
 EMPIRE_ENERGY: "Énergie: "
