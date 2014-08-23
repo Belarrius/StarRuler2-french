@@ -9,10 +9,10 @@ NAME: Nom
 DESCRIPTION: Description
 SAVE: Sauvegarder
 LOAD: Charger
-OVERWRITE: Écraser
+OVERWRITE: Ã‰craser
 IMPORT: Importer
 EXPORT: Exporter
-CREATE: Créer
+CREATE: CrÃ©er
 ADD: Ajouter
 DELETE: Supprimer
 SET: Mettre
@@ -20,11 +20,11 @@ RESET: Remettre
 NONE: Aucun
 BACK: Retour
 DESIGN: Conception
-PLANET: Planète
-SYSTEM: Système
-SYSTEMS: Systèmes
+PLANET: PlanÃ¨te
+SYSTEM: SystÃ¨me
+SYSTEMS: SystÃ¨mes
 SHIP: Vaisseau
-DEBRIS: Champ de débris
+DEBRIS: Champ de dÃ©bris
 ANOMALY: Anomalie
 RESEARCH: Recherche
 TECHNOLOGY: Technologie
@@ -34,7 +34,7 @@ REDO: Refaire
 ERROR: Erreur
 WARNING: Attention
 CHOOSE: Choisir
-GENERATE: Générer
+GENERATE: GÃ©nÃ©rer
 TIME_S: $1s
 TIME_M: $1m
 TIME_MS: $1m $2s
@@ -46,44 +46,44 @@ ELLIPSIS: ...
 SHORT_ELLIPSIS: .
 NEVER: Jamais
 HP: PV
-COST: Coût
+COST: CoÃ»t
 ALL: Tous
 BUILD: Construire
 QUEUE: File
-UPGRADE: Améliorer
-UPGRADES: Améliorations
+UPGRADE: AmÃ©liorer
+UPGRADES: AmÃ©liorations
 CONSOLE: Console
 AMOUNT: Montant
-DETAILS: Détails
+DETAILS: DÃ©tails
 SEND: Envoyer
 LEAVE: Laisser
 WITHDRAW: Retirer
 VIEW: Voir
 OLDER: Ancien
-NEWER: Récent
-PASSED: Passé
-FAILED: Manqué
+NEWER: RÃ©cent
+PASSED: PassÃ©
+FAILED: ManquÃ©
 PROPOSE: Proposer
 USE: Utiliser
 HEALTH: PV // A l'air de correspondre
-ENERGY: Énergie
+ENERGY: Ã‰nergie
 FLEET_STRENGTH: Puissance flotte
 SCUTTLE: Saborder
 AVAILABLE: Disponible
-MANAGE: Gérer
+MANAGE: GÃ©rer
 SUPPORTS: Soutien
 CONSTRUCTION: Construction
-ASTEROID: Astéroïde
+ASTEROID: AstÃ©roÃ¯de
 RENAME: Renommer
 PERCENTAGE: Pourcentage
 REFRESH: Rafraichir
 CUSTOMIZE: Personnaliser
 PASSWORD: Mot-de-passe
 CHAT: Chat
-DISCONNECT: Déconnecté du serveur
+DISCONNECT: DÃ©connectÃ© du serveur
 WORMHOLE: Trou-de-ver
 NEXT: Suivant
-PREVIOUS: Précédent
-CLOSE: Fermer // A vérifier si sa coïncide
+PREVIOUS: PrÃ©cÃ©dent
+CLOSE: Fermer // A vÃ©rifier si sa coÃ¯ncide
 SIZE: Taille
 VS: vs
