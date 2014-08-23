@@ -4,7 +4,7 @@ TRANSFER_SUPPORT_SHIPS: Transférer vaisseau de support
 CREATE_SUPPORT_SHIPS: Créer plus de vaisseau de support
 SCUTTLE_SUPPORT_SHIPS: Retirer/Saborder vaisseau de support
 MANAGE_SUPPORTS: Gérer vaisseau de support
-ADD_SUPPORTS: Ajouter un groupe de support
+ADD_SUPPORTS: Ajouter groupe de support
 SHIP_ORDERS: Ordres
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construction $1
