@@ -2,7 +2,7 @@ PORTRAIT: Portrait
 RACE_NAME: Nom Race
 FTL_METHOD: Méthode FTL
 SHIPSET: Type de vaisseaux
-WEAPON_SKIN: Type d'armes
+WEAPON_SKIN: Couleur des armes
 
 TT_DIFF: [font=Medium]Difficulté:[/font]
 DIFF_PASSIVE: [img=HappyFace;40][b][color=#0f0]Passif[/color][/b]\n[i]Ne déclare pas la guerre à des empire controlées par des humains.[/i][/img]
@@ -34,103 +34,103 @@ TRAIT_CAT_Biology: Biologie
 TRAIT_CAT_Military: Militaire
 TRAIT_CAT_Tendency: Tendance
 
-TRAIT_POOR: Poor
+TRAIT_POOR: Pauvre
 TRAIT_POOR_DESC: <<|
-	Start the game with §$1 less base income.
+	Commencez le jeu avec un revenu de §$1 de base en moins.
 >>
 
-TRAIT_INDUSTRIOUS: Industrious
+TRAIT_INDUSTRIOUS: Industrieux
 TRAIT_INDUSTRIOUS_DESC: <<|
-	The homeworld starts with $1 extra labor generation.
+	Votre planète d'origine commence avec un bonus de $1 de main-d'œuvre supplémentaire.
 >>
 
-TRAIT_FTLCACHE: FTL Cache
+TRAIT_FTLCACHE: Stockage de FTL
 TRAIT_FTLCACHE_DESC: <<|
-	Start with $1 FTL energy, but no generation.
+	Commencez avec $1 d'énergie FTL, mais aucune génération.
 >>
 
 TRAIT_PLANTATION: Plantation
 TRAIT_PLANTATION_DESC: <<|
-	Start with an extra Grain on your homeworld.
+	Commencez avec un bonus de nourriture sur votre planète mère.
 >>
 
-TRAIT_CUNNING: Cunning
+TRAIT_CUNNING: Ruse
 TRAIT_CUNNING_DESC: <<|
-	Start with an extra $1 random influence cards.
+	Commencez avec un supplément de $1 carte aléatoire d'influence.
 >>
 
-TRAIT_CRUDE: Crude
+TRAIT_CRUDE: Brut // Sa fais étrange.. besoin d'avis svp !
 TRAIT_CRUDE_DESC: <<|
-	All ships cost $1% more money to construct.
+	Tout les vaisseaux ont une augmenation de $1% sur leurs coût.
 >>
 
-TRAIT_INEFFICIENT: Inefficient
+TRAIT_INEFFICIENT: Inefficace
 TRAIT_INEFFICIENT_DESC: <<|
-	All weapons drain $1x supply when firing.
+	Toutes les armes consomment $1x plus de ressouces lors des tirs.
 >>
 
-TRAIT_EMPIRE: Government: Empire
+TRAIT_EMPIRE: Gouvernement: Empire
 TRAIT_EMPIRE_DESC: <<|
- [b][color=#a06911]Extra nearby Asteroids[/color][/b].
- [b][color=#f00]Fleet:[/color][/b] Heavy Carrier with support.
- [b][color=#0087c7]Cards:[/color][/b] 8x Negotiate, 1x Name Flagship, 1x Name Planet.
+ [b][color=#a06911]Astéroïdes proches supplémentaires[/color][/b].
+ [b][color=#f00]Flotte:[/color][/b] Heavy Carrier avec support. // A vérif
+ [b][color=#0087c7]Cartes:[/color][/b] 8x Négociation, 1x Nommer Vaisseau Mère, 1x Nommer Planète.
 >>
 
-TRAIT_COMMUNISM: Government: Communism
+TRAIT_COMMUNISM: Gouvernement: Communisme
 TRAIT_COMMUNISM_DESC: <<|
- [b][color=#42b4bd]500 Energy[/color][/b].
- [b][color=#f00]Fleet:[/color][/b] 2x Dreadnaught.
- [b][color=#0087c7]Cards:[/color][/b] 1x Negotiate, 1x Investigate, 1x Cultivation, 1x United Research Center, 1x Enhance, 1x Sabotage.
+ [b][color=#42b4bd]500 Énergy[/color][/b].
+ [b][color=#f00]Flotte:[/color][/b] 2x Cuirassier.
+ [b][color=#0087c7]Cartes:[/color][/b] 1x Négociation, 1x Enquête, 1x Cultivation, 1x Centre de recherche uni, 1x Amélioration, 1x Sabotage.
 >>
 
-TRAIT_THEOCRACY: Government: Theocracy
+TRAIT_THEOCRACY: Gouvernement: Théocratie
 TRAIT_THEOCRACY_DESC: <<|
  [b][color=#00c0ff]250 FTL[/color][/b].
- [b][color=#f00]Fleet:[/color][/b] 2x Scout, 1x Dreadnaught, Homeworld Defense.
- [b][color=#0087c7]Cards:[/color][/b] 1x Promises, 1x Ancient Knowledge, 2x Protect System, 1x Host Galactic Senate.
+ [b][color=#f00]Flotte:[/color][/b] 2x Éclaireur, 1x Cuirassier, Défense planète mère.
+ [b][color=#0087c7]Cartes:[/color][/b] 1x Promesses, 1x Conaissances Ancienne, 2x Système de protection, 1x Acceuillir Sénat Galactique.
 >>
 
-TRAIT_CAPITALISM: Government: Capitalism
+TRAIT_CAPITALISM: Gouvernement: Capitalisme
 TRAIT_CAPITALISM_DESC: <<|
- [b][color=#d1cb6a]§300k Special Funds[/color][/b].
- [b][color=#f00]Fleet:[/color][/b] Heavy Carrier.
- [b][color=#0087c7]Cards:[/color][/b] 4x Leverage, 2x Attach Rider, 3x Patriotic Surge, 2x Gift.
+ [b][color=#d1cb6a]§300k Fonds spéciaux[/color][/b].
+ [b][color=#f00]Flotte:[/color][/b] Heavy Carrier.
+ [b][color=#0087c7]Cartes:[/color][/b] 4x Influences, 2x Attach Rider, 3x Surge patriotique, 2x Cadeaux. // Attach Rider ???
 >>
 
-TRAIT_MERITOCRACY: Government: Meritocracy
+TRAIT_MERITOCRACY: Gouvernement: Méritocratie
 TRAIT_MERITOCRACY_DESC: <<|
-	Power to the most productive citizens. Start with 5x Negotiate (*), 1x Open Forum, 1x Investigate, 2x Gift, 2x Enhance.
+	Pouvoir aux citoyens les plus productifs. Commencez avec 5x Négotiation (*), 1x Forum Ouvert, 1x Enquête, 2x Cadeaux, 2x Amélioration.
 >>
 
-TRAIT_ANARCHY: Government: Anarchy
+TRAIT_ANARCHY: Gouvernement: Anarchie
 TRAIT_ANARCHY_DESC: <<|
-	A total lack of structural government. Start without any influence cards.
+	Une absence totale de gouvernement structurelle. Commencez sans cartes d'influence.
 >>
 
-TRAIT_HYPERDRIVE: Hyperdrive
+TRAIT_HYPERDRIVE: Hyperpropulsion
 TRAIT_HYPERDRIVE_DESC: <<|
-	Outfit your ships with hyperdrive engines to FTL long distances through hyperspace.
+	Équipez vos vaisseaux de moteurs à Hyperpropulsion pour parcourir de longues distances via FTL.
 >>
 
-TRAIT_FLING: Fling Beacons
+TRAIT_FLING: Balise de sauts
 TRAIT_FLING_DESC: <<|
-	Build enormous beacons capable of flinging ships away from them at vast speeds.
+	Construit d'énormes balises de saut capable de projeter les vaisseaux loin à une énorme vitesse.
 >>
 
-TRAIT_GATE: Gates
+TRAIT_GATE: Portes
 TRAIT_GATE_DESC: <<|
-	Gate orbitals establish stable wormholes and let ships move from any gate to any other gate.
+	Les portes orbitales établissent des Trous-de-ver stable et permettent aux vaisseaux de se déplacer vers d'autres portes.
 >>
 
-TRAIT_SLIPSTREAM: Slipstream
+TRAIT_SLIPSTREAM: Trou de ver
 TRAIT_SLIPSTREAM_DESC: <<|
-	Specialized generator ships rip tears in time and space so ships can instantly pass between them.
+	Vaisseaux spécialisés avec générateur de trou de ver, permettant de passer instantanément d'un point à un autre.
 >>
 
-TRAIT_ANCIENT_VESSEL: Ancient Vessel
+TRAIT_ANCIENT_VESSEL: Ancien navire
 TRAIT_ANCIENT_VESSEL_DESC: <<|
-	This proud vessel has long flown over our planet. Now, we shall reclaim it.
-	Start with a Remnant Flagship.
+	Ce fier vaisseau à longtemps survolé votre planète.
+	Commencez avec un fier vaisseau-mère.
 >>
 
 TRAIT_MANIFEST_DESTINY: Manifest Destiny

@@ -68,17 +68,17 @@ DEFENSE_PLATFORM_DESC: <<|
 	from the platform.
 >>
 
-DRY_DOCK: Dry Dock
-DRY_DOCK_NAME: Dry Dock: $1
+DRY_DOCK: Cale sèche
+DRY_DOCK_NAME: Cale sèche: $1
 
-FLING_BEACONS: Fling Beacons
-ORB_FLING_CORE: Fling Beacon
-ORB_FLING_CORE_BLURB: Adds fling capability to nearby ships.
+FLING_BEACONS: Balise de sauts
+ORB_FLING_CORE: Balise de sauts
+ORB_FLING_CORE_BLURB: Ajoute la capacité de saut aux vaisseaux à proximité.
 ORB_FLING_CORE_DESC: <<|
-	Allows use of fling-based FTL near the beacon.
+	Permet l'utilisation de saut FTL à proxmité de la balise.
 
-	Ships within 10,000 distance units of a fling beacon can be FTLed to
-	anywhere in the galaxy.
+	Les vaisseaux à 10,000 unité de distance d'une balise de saut peuvent être transporter par FTL
+	partout dans la galaxie.
 >>
 
 ORB_GATE_CORE: Gate
@@ -191,27 +191,27 @@ ORB_TRADE_DEPOT_DESC: <<|
 	budget cycle for each of their planets.
 >>
 
-ORB_DRY_DOCK: Dry Dock
-ORB_DRY_DOCK_BLURB: Single-use flagship construction in space.
+ORB_DRY_DOCK: Cale sèche
+ORB_DRY_DOCK_BLURB: À usage unique, sert à la construction d'un vaisseau dans l'espace.
 ORB_DRY_DOCK: <<|
-	Can construct a flagship in space, letting other planets easily contribute
-	their labor to the construction.
+	Peut construire un vaisseau dans l'espace, permettant une contribution facile de la part des autres 
+	planètes pour la contruction.
 >>
 
-ORB_FTL_INTERDICTION: FTL Interdictor
-ORB_FTL_INTERDICTION_BLURB: Prevents other empires from using FTL in this system.
+ORB_FTL_INTERDICTION: Annulateur FTL
+ORB_FTL_INTERDICTION_BLURB: Empêche les autres empires l'utilisation de FTL dans ce système.
 ORB_FTL_INTERDICTION_DESC: <<|
-	[b]Other empires[/b] cannot activate FTL devices inside this system:
+	[b]Les autres empires[/b] ne peut pas activer les dispositifs FTL à l'intérieur de ce système:
 
-	Ships using hyperdrives will drop out of FTL upon entering this system.
+	Les vaisseaux qui utilisent l'hyperpropulsion seront stopper en entrant dans ce système.
 
-	Gates and Fling Beacons situated inside this system are deactivated.
+	Les Portes et balises de sauts à l'intérieur de ce système sont désactivés.
 
-	[b]Also:[/b]
+	[b]Aussi:[/b]
 
-	No empire may open slipstreams to or from this system, [b]including yourself[/b].
+	Aucuns empires ne peut ouvrir de trou de ver dans ce système [b]y compris vous[/b].
 
-	[i]The interdictor takes 60 seconds to activate its effect after being enabled.[/i]
+	[i]L'Annulateur FTL met 60 secondes pour prendre effet après avoir été activé.[/i]
 >>
 
 ORB_HYPERFIELD_ACTUATOR: Hyperfield Actuator

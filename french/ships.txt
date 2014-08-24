@@ -71,15 +71,15 @@ TT_HYPERDRIVE: <<|
 >>
 
 TT_FLING: <<|
-	[b]Fling[/b]
+	[b]Saut[/b]
 
-	Use the nearby fling beacon to engage FTL movement.
+	Utilise une balise de saut proche pour engager un mouvement FTP.
 >>
 
 TT_SLIPSTREAM: <<|
-	[b]Generate Slipstream Tear[/b]
+	[b]Générer un trou de ver[/b]
 
-	Use the ship's slipstream generator to create a new tear to the target destination.
+	Utilise un vaisseau générateur de trou de ver pour créer une déchirure jusqu'à la destination cible.
 >>
 
 TT_SHIP_HEALTH: <<
