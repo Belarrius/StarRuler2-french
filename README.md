@@ -19,7 +19,7 @@ Comment installer la traduction Française :
 ----
 
 
-Pour nous aider à traduire, rendez-vous sur [**Le thread officiel sur le forum des créateurs**](http://forums.blind-mind.com/index.php?topic=6088) 
+Pour nous aider à traduire laissez un commentaire, ou simplement via le [**thread officiel sur le forum des créateurs**](http://forums.blind-mind.com/index.php?topic=6088) 
 
 Beaucoup de travail est encore nécessaire pour une traduction complète.
 
