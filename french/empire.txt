@@ -1,38 +1,38 @@
 PORTRAIT: Portrait
-RACE_NAME: Race Name
-FTL_METHOD: FTL Method
-SHIPSET: Shipset
-WEAPON_SKIN: Weapon Skin
+RACE_NAME: Nom Race
+FTL_METHOD: Méthode FTL
+SHIPSET: Type de vaisseaux
+WEAPON_SKIN: Type d'armes
 
-TT_DIFF: [font=Medium]Difficulty:[/font]
-DIFF_PASSIVE: [img=HappyFace;40][b][color=#0f0]Passive[/color][/b]\n[i]Will not declare war on human-controlled empires.[/i][/img]
-DIFF_EASY: [img=StatusPeace;40][b]Easy[/b]\n[i]An easy opponent to start with.[/i][/img]
-DIFF_NORMAL: [img=StatusWar;40][b]Normal[/b]\n[i]A moderate challenge.[/i][/img]
-DIFF_HARD: [img=StatusCeaseFire;40][b]Hard[/b]\n[i]Unlocks the full abilities of the AI.[/i][/img]
-DIFF_MURDEROUS: [img=AttributeIcons::3;40][b][color=#ff9000]Murderous[/color][/b]\n[i]Attempts to destroy human-controlled empires above everything else.[/i][/img]
-DIFF_SAVAGE: [img=VoteIcons::3;40][b][color=#f00]Savage[/color][/b]\n[i]Abuses [b]cheats[/b] and free resources to kill all humans.[/i][/img]
+TT_DIFF: [font=Medium]Difficulté:[/font]
+DIFF_PASSIVE: [img=HappyFace;40][b][color=#0f0]Passif[/color][/b]\n[i]Ne déclare pas la guerre à des empire controlées par des humains.[/i][/img]
+DIFF_EASY: [img=StatusPeace;40][b]Facile[/b]\n[i]Un adversaire facile pour débuter.[/i][/img]
+DIFF_NORMAL: [img=StatusWar;40][b]Normal[/b]\n[i]Un challenge modérer.[/i][/img]
+DIFF_HARD: [img=StatusCeaseFire;40][b]Difficile[/b]\n[i]Une I.A. avec toutes ces capacités.[/i][/img]
+DIFF_MURDEROUS: [img=AttributeIcons::3;40][b][color=#ff9000]Meurtrier[/color][/b]\n[i]Va tenter de détruire les empires controlées par les humains par dessus tout.[/i][/img]
+DIFF_SAVAGE: [img=VoteIcons::3;40][b][color=#f00]Sauvage[/color][/b]\n[i]Va [b]tricher[/b] contre vous et aura des ressources illimité pour vous détruire.[/i][/img]
 
-CUSTOMIZE_RACE: Customize Race...
-RACE_OVERVIEW: Overview
-RACE_PROFILE: Profile
-TRAITS: Traits
-NO_TRAITS: No traits chosen...
-CONFLICTS: Conflicts:
+CUSTOMIZE_RACE: Personnalisez race...
+RACE_OVERVIEW: Vue d'ensemble
+RACE_PROFILE: Profil
+TRAITS: Caractéristiques
+NO_TRAITS: Pas de caractéristiques choisie...
+CONFLICTS: Conflits:
 
 RACE_POINTS_POS: +$1 point(s)
 RACE_POINTS_NEG: $1 point(s)
 RACE_POINTS_NEU: 0 points
 
-RACE_POINTS_AVAIL_POS: $1 point(s) available
-RACE_POINTS_AVAIL_NEG: $1 point(s) required
+RACE_POINTS_AVAIL_POS: $1 point(s) disponible
+RACE_POINTS_AVAIL_NEG: $1 point(s) requis
 
-TRAIT_CAT_Government: Government
-TRAIT_CAT_Foundation: Foundation
+TRAIT_CAT_Government: Gouvernement
+TRAIT_CAT_Foundation: Fondation
 TRAIT_CAT_FTL: FTL
-TRAIT_CAT_Personality: Personality
-TRAIT_CAT_Biology: Biology
-TRAIT_CAT_Military: Military
-TRAIT_CAT_Tendency: Tendency
+TRAIT_CAT_Personality: Personnalité
+TRAIT_CAT_Biology: Biologie
+TRAIT_CAT_Military: Militaire
+TRAIT_CAT_Tendency: Tendance
 
 TRAIT_POOR: Poor
 TRAIT_POOR_DESC: <<|
