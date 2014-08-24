@@ -59,7 +59,7 @@ TRAIT_CUNNING_DESC: <<|
 	Commencez avec un supplément de $1 carte aléatoire d'influence.
 >>
 
-TRAIT_CRUDE: Brut // Sa fais étrange.. besoin d'avis svp !
+TRAIT_CRUDE: Brut
 TRAIT_CRUDE_DESC: <<|
 	Tout les vaisseaux ont une augmenation de $1% sur leurs coût.
 >>
@@ -72,7 +72,7 @@ TRAIT_INEFFICIENT_DESC: <<|
 TRAIT_EMPIRE: Gouvernement: Empire
 TRAIT_EMPIRE_DESC: <<|
  [b][color=#a06911]Astéroïdes proches supplémentaires[/color][/b].
- [b][color=#f00]Flotte:[/color][/b] Heavy Carrier avec support. // A vérif
+ [b][color=#f00]Flotte:[/color][/b] Heavy Carrier avec support.
  [b][color=#0087c7]Cartes:[/color][/b] 8x Négociation, 1x Nommer Vaisseau Mère, 1x Nommer Planète.
 >>
 
@@ -94,7 +94,7 @@ TRAIT_CAPITALISM: Gouvernement: Capitalisme
 TRAIT_CAPITALISM_DESC: <<|
  [b][color=#d1cb6a]§300k Fonds spéciaux[/color][/b].
  [b][color=#f00]Flotte:[/color][/b] Heavy Carrier.
- [b][color=#0087c7]Cartes:[/color][/b] 4x Influences, 2x Attach Rider, 3x Surge patriotique, 2x Cadeaux. // Attach Rider ???
+ [b][color=#0087c7]Cartes:[/color][/b] 4x Influences, 2x Attach Rider, 3x Surge patriotique, 2x Cadeaux.
 >>
 
 TRAIT_MERITOCRACY: Gouvernement: Méritocratie
