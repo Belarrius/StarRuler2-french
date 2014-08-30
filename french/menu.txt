@@ -62,11 +62,11 @@ MP_SPECTATING_EVENT: $1 est maintenant spectateur.
 
 CHOOSE_MAP: Choisir la carte...
 ADD_GALAXY: Ajouter galaxie
-+SYSTEM_COUNT: Systèmes
-+SYSTEM_SPACING: Espacement
-+CONNECT_ENDS: Boucle avec Trou de ver
-+TEAM: Équipe
-+TEAM_TEXT: Équipe $1
+SYSTEM_COUNT: Systèmes
+SYSTEM_SPACING: Espacement
+CONNECT_ENDS: Avec trou noir
+TEAM: Équipe
+TEAM_TEXT: Équipe $1
 +NO_TEAM: Pas d'équipe
 
 FLATTEN: Aplatir
