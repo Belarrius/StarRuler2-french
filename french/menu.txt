@@ -64,7 +64,7 @@ CHOOSE_MAP: Choisir la carte...
 ADD_GALAXY: Ajouter galaxie
 SYSTEM_COUNT: Systèmes
 SYSTEM_SPACING: Espacement
-CONNECT_ENDS: Avec trou noir
+CONNECT_ENDS: Avec passage Trou de ver 
 TEAM: Équipe
 TEAM_TEXT: Équipe $1
 +NO_TEAM: Pas d'équipe
