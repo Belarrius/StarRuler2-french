@@ -13,6 +13,7 @@ ERROR_INVALID_HULL: Vous ne pouvez pas utiliser $1 sur ce type de coque.
 ERROR_MINIMUM_SIZE: '$1' Coque requis la taille minimum de $2.
 ERROR_MAXIMUM_SIZE: '$1' Coque a une taille maximale de $2.
 ERROR_HULL_NOT_IN_SHIPSET: La conception de coque n'est pas disponible avec le modèle actuel.
+ERROR_NEED_CONTROL: At least 1 Command requir
 DESIGNS: Conceptions
 
 HULL_EDITOR: Éditeur de coque

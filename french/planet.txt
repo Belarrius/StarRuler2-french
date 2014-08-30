@@ -13,6 +13,11 @@ STOP_COLONIZE_SYSTEM: Arrêter la colonisation des planètes en $1
 CANCEL_AUTO_COLONIZE: Arrêter la colonisation
 COLONIZE_CONTINUE: Continuer la colonisation
 COLONIZE_CANCEL: Arrêtez la colonisation $1
+COLONIZE_UNSAFE_PROMPT: <<|
+ Ordering a colonization with this planet right now can drop its total population below what is required to sustain its current planet level.
+
+ Are you sure you wish to colonize despite potentially deleveling?
+>>
 LEVEL: Niveau
 MANAGE: Gérer
 ORBITAL_YARD: Station de construction
@@ -27,13 +32,14 @@ IMPORT_RESOURCE: Importer $1 depuis $2
 QUEUE_IMPORT_RESOURCE: File d'importation de $1 depuis $2
 STOP_IMPORT_RESOURCE: Arrêter l'importation $1 depuis $2
 STOP_IMPORT_RES_QUEUE: Annuler file d'importation de $1 depuis $2
-RESOURCE_POP_REQUIRED: Nécessite au moins une population de 1M pour construire.
+RESOURCE_POP_REQUIRED: Nécessite au moins une population d'au moins [b]$1 Milliards[/b] pour construire.
 RESOURCE_LEVEL_REQUIRED: Planète de niveau $1 requis pour construire.
 RESOURCE_EXPORTED_TO: Exportation de $1...
 RESOURCE_IMPORTED_FROM: Importation de $1...
 ORBITAL_SLOTS: Espace orbitale
 INCOME: Revenu
 REQ_FOR_LEVEL: Requis pour niveau $1:
+POP_REQ: [img=ResourceIcon::8;20/] [color=#ff9000][b]$1+[/b] pop.[/color]
 REQ_STOP_DECAY: Ressources manquantes ! Réduction au niveau $1 en $2 si les besoins ne sont pas satisfaits:
 REQ_TYPE: Tout type de $1:
 REQ_TYPE_UNIQUE: Tout les types unique de $1:
@@ -328,12 +334,12 @@ DESIG_SUPERNETWORK_DESC: <<|
 
 DESIG_ACADEMY: Fleet Academy
 DESIG_ACADEMY_DESC: <<|
-	All fleets operate at 200% of base effectiveness.
+	All fleets operate at 40% extra effectiveness.
 >>
 
 DESIG_PARLIAMENT: Galactic Parliament
 DESIG_PARLIAMENT_DESC: <<|
-	Any vote you start begins at +14 support.
+	Any vote you start begins at +6 support.
 >>
 
 DESIG_REFINERY: Refinery Forge

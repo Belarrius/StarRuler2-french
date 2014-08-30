@@ -1,5 +1,8 @@
 SPIRAL_GALAXY: Galaxie spirale
 SPIRAL_GALAXY_DESC: Une galaxie en spirale à multiple bras.
 
-DISC_GALAXY: Galaxie disque
-DISC_GALAXY_DESC: Une galaxie répartie sur un seule disque
+CORKSCREW_GALAXY: Galaxie en tire-bouchon
+CORKSCREW_GALAXY_DESC: Une galaxie avec des étoiles tournant en cercle sur une seule bande.
+
+CLUSTERS_MAP: Galaxie en Groupe
+CLUSTERS_MAP_DESC: Une galaxie en petits groupes relié par des couloirs étroits.

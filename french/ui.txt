@@ -87,6 +87,7 @@ PLAY_EMPIRE: Jouer Empire
 
 FREE_RESOURCES: Ressources Inutilisés
 DISABLED_RESOURCES: Ressources Désactivés
+NO_POP_RESOURCES: Population insuffisante pour produire
 DECAYING_PLANETS: Décomposition des Planètes
 LABOR_PLANETS: Planètes / Stations avec travail
 DEFENSE_PLANETS: Planètes avec Défense
@@ -98,6 +99,7 @@ ALL_FLEETS: Tous les Vaisseaux
 COMBAT_FLEETS: Vaisseaux en combat
 FLEETS_LOW_SUPPLY: Flottes en approvisionnement faible // a vérif
 AVAIL_ARTIFACTS: Artefacts disponibles
+COLONIZE_SAFE_PLANETS: Population suffisante pour coloniser
 
 GO_RESOURCE: $1
 GO_RESOURCE_TYPE: Trouver des ressources

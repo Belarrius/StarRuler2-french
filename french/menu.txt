@@ -1,8 +1,5 @@
 START_GAME: Lancer une partie
 GAME_SETTINGS: Options
-CHANGE_MAP: Changer de map
-SELECT_MAP: Sélectionner la carte maintenant ?
-SYSTEM_COUNT: Nombre de systèmes:
 ADD_AI: Ajouter IA
 MENU_EMPIRES: Empires
 MENU_GAME_SETTINGS: Options du jeu
@@ -63,10 +60,15 @@ MP_DISCONNECT_EVENT: $1 s'est déconnecter.
 MP_PLAY_EVENT: $1 joue maintenant avec l'empire $2.
 MP_SPECTATING_EVENT: $1 est maintenant spectateur.
 
-CHOOSE_MAP: Choisir la carte
+CHOOSE_MAP: Choisir la carte...
 ADD_GALAXY: Ajouter galaxie
++SYSTEM_COUNT: Systèmes
++SYSTEM_SPACING: Espacement
++CONNECT_ENDS: Boucle avec Trou de ver
++TEAM: Équipe
++TEAM_TEXT: Équipe $1
++NO_TEAM: Pas d'équipe
 
-SYSTEM_COUNT: Nombre systèmes solaire
 FLATTEN: Aplatir
 
 TEX_QUAL_2: Mauvais
