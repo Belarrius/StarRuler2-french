@@ -1,2 +1,11 @@
 STATUS_DEVASTATE: Dévastation
 STATUS_DEVASTATE_DESC: Cette planète perd sa population au fil du temps.
+
+STATUS_GRAVITARSHIP: Vaisseau Gravitar
+STATUS_GRAVITARSHIP_DESC: Ces navires anciens récupérent des artefacts qui ont errés trop loin dans l'espace profond.
+
+STATUS_STARTING_PROTECTION: Établissement de Protection
+STATUS_STARTING_PROTECTION_DESC: Protection complète de la loyauté des planètes dans ce système est encore en cours de création. Il faudra du temps pour devenir actif.
+
+STATUS_BLOCKED_COLONIZATION: Colonisation Bloquée
+STATUS_BLOCKED_COLONIZATION_DESC: Cette planète ne peut pas être colonisé en raison de reliques invaincus dans le système.
