@@ -5,8 +5,8 @@ ANOMALY_CHOICES: Options
 
 ANOMALY_DEBRIS_FIELD: Champ de débris
 ANOMALY_NAR_DEBRIS: <<|
-	Parmi les grandes quantités d'épave antique, seule un signal scintille à l'intérieur. 
-	Mais hors de détection.
+	Parmi la grande quantité d'épaves antique, seule un signal scintille à l'intérieur.
+	Mais il est hors de détection.
 >>
 
 ANOMALY_NAR_DERELICT_BROKEN: <<|
