@@ -3,26 +3,26 @@ ANOMALY_NOTIFICATION: L'anomalie dans $1 a été entièrement scannée.
 SCAN_PROGRESS: Scanner avec un vaisseau pour accéder aux options...
 ANOMALY_CHOICES: Options
 
-ANOMALY_DEBRIS_FIELD: Debris Field
+ANOMALY_DEBRIS_FIELD: Champ de débris
 ANOMALY_NAR_DEBRIS: <<|
-	Amongst the vast amounts of ancient wreckage, a lone signal flickers in and
-	out of detection.
+	Parmi les grandes quantités d'épave antique, seule un signal scintille à l'intérieur. 
+	Mais hors de détection.
 >>
 
 ANOMALY_NAR_DERELICT_BROKEN: <<|
-	Locating the source of the signal, you find the wreck of an ancient warship.
+	Localiser la source du signal, vous trouverez l'épave d'un ancien navire de guerre.
 
-	The ship appears to be heavily damaged, but perhaps we can find something useful on board.
+	Le navire semble être fortement endommagé, mais peut-être pourons-nous trouver quelque chose d'utile à bord.
 >>
 ANOMALY_DERELICT_SCRAP: <<|
-	Scrap the warship for parts and sell the technology on the black market.
+	Ferrailler le navire de guerre pour les pièces et vendrent les technologies sur le marché noir.
 
 	[b][color=#d1cb6a][right]Gain §$1k[/right][/color][/b]
 >>
 ANOMALY_DERELICT_RESEARCH: <<|
-	Send a team of scientists aboard to study some of the intact subsystems.
+	Envoyer une équipe de scientifiques à bord pour étudier certains des sous-systèmes intacts.
 
-	[b][color=#842cdb][right]Gain a random amount of research points.[/right][/color][/b]
+	[b][color=#842cdb][right]Gain d'une quantité aléatoire de points de recherche.[/right][/color][/b]
 >>
 ANOMALY_NAR_DERELICT_INTACT: <<|
 	Locating the source of the signal, you find a mostly intact ancient warship.
