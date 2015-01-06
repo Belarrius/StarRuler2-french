@@ -9,7 +9,7 @@ ABL_GENERATE_WATER_DESC: <<|
 
 ART_COMMAND_COMPUTER: Système de commandement
 ART_COMMAND_COMPUTER_DESC: Un système informatique équipable qui augmente la capacité de support maximal d'une flotte.
-ABL_EXPAND_FLEET: Équipe d'un Système de commandement
+ABL_EXPAND_FLEET: S'équiper d'un Système de commandement
 ABL_EXPAND_FLEET_DESC: <<|
 	Augmente la capacité de support de la flotte ciblée par 500.
 	
@@ -24,7 +24,7 @@ STATUS_COMMAND_COMPUTER_DESC: <<|
 >>
 
 ART_POWER_CELL: Cellule énergétique
-ART_POWER_CELL_DESC: Une source d'énergie equipable qui augmente l'efficacité au combat de la flotte de 20%.
+ART_POWER_CELL_DESC: Une source d'énergie équipable qui augmente l'efficacité au combat de la flotte de 20%.
 ABL_OVERCHARGE_FLEET: Équipe la cellule énergétique
 ABL_OVERCHARGE_FLEET_DESC: <<|
 	Accroît l'efficacité de la flotte ciblée de 50%.
@@ -36,20 +36,20 @@ STATUS_POWER_CELL: Cellule énergétique
 STATUS_POWER_CELL_DESC: <<|
 	Porteur de l'artefact cellule énergétique.
 
-	Capacié de support de la flotte augmené de 50%.
+	Capacité de support de la flotte augmenté de 50%.
 	Peu résister a la destruction du vaisseau amiral
 >>
 
 ART_NATURE_DEVICE: Arcologie
-ART_ARCOLOGY_DESC: Un habitat orbitale abandonnée qui peut être déplacé à une planète pour augmenter population maximale.
+ART_ARCOLOGY_DESC: Un habitat orbitale abandonné qui peut être déplacé vers une planète pour augmenter population maximale.
 ABL_DEVELOP_PLANET: Déplacer l'Arcologie
 ABL_DEVELOP_PLANET_DESC: <<|
 	Augmente la population maximale sur la planète ciblée de 10.
 >>
 
-ART_TELESCOPE: Téléscope
+ART_TELESCOPE: Télescope
 ART_TELESCOPE_DESC: Un télescope quantique jetable qui peut fournir une vision sur de grandes distances.
-ABL_TELESCOPE: Utiliser téléscope
+ABL_TELESCOPE: Utiliser télescope
 ABL_TELESCOPE_DESC: <<|
 	Rend visible la cible et les systèmes environnent pendant 
 	15 minutes.
@@ -59,11 +59,11 @@ ART_BUSTER_MACHINE: Destructeur de Planète
 ART_BUSTER_MACHINE_DESC: Un navire activable équipé d'un faisceau destructeur de planète.
 ABL_BUSTER_MACHINE: Activation du Destructeur de Planète
 ABL_BUSTER_MACHINE_DESC: Réactiver le vaisseau Destructeur de Planète qui est désactivé, un vaisseau antique équipé d'un faisceau destructeur de planète.
-ABL_BUSTER_BEAM: Toggle Buster Beam
+ABL_BUSTER_BEAM: Activer le faisceau destructeur
 ABL_BUSTER_BEAM_DESC: <<
-	Toggle the activation of the Buster Beam on a planet.
+	Activer le faisceau destructeur sur une planète.
 
-	The buster beam will kill population and deplete a planet's Health. When the planet's health hits 0, the planet explodes. Some asteroids may be left behind after the destruction.
+	Le faisceau destructeur tue la population et épuisent la santé d'une planète. Lorsque la santé de la planète atteint 0, la planète explose. Certains astéroïdes peuvent être laissés après la destruction.
 >>
 ABL_BUST_PLANET: Détruire planète
 ABL_BUST_PLANET_DESC: <<|
@@ -72,13 +72,13 @@ ABL_BUST_PLANET_DESC: <<|
 NOTIFY_BUST_PLANET: L'empire [color=$2]$1[/color] a activé la [b]Machine de destruction[/b] et a exploser [color=$4]$3[/color] en mille morceaux !
 
 ART_SPY_PROBE: Sonde d'espionnage
-ART_SPY_PROBE_DESC: An activatable probe with sophisticated scanners that can spy for diplomatic advantage.
-ABL_SPAWN_SPY_PROBE: Activate Spy Probe
+ART_SPY_PROBE_DESC: Une sonde activable avec des scanners sophistiqués qui peuvent espionner pour avoir un avantage diplomatique.
+ABL_SPAWN_SPY_PROBE: Activation de la sonde d'espionnage. LA sonde a des scanners sophistiqués qui peuvent espionner pour avoir un avantage diplomatique.
 ABL_SPAWN_SPY_PROBE_DESC: <<
-	Reactivate the dormant espionage probe. The probe has sophisticated scanners that can spy for diplomatic advantage.
+	Réactiver la sonde d'espionnage en sommeil.
 >>
-STATUS_SPY_PROBE: Espionage Probe
-STATUS_SPY_PROBE_DESC: This ship is a refurbished Remnant spy probe, and is gathering intelligence for an empire. It's impossible to tell which empire has sent the probe.
+STATUS_SPY_PROBE: Sonde d'espionnage
+STATUS_SPY_PROBE_DESC: Ce navire est une ancienne sonde d'espionnage rénové, et elle a collecté des renseignements pour un empire. Il est impossible de dire quelle empire a envoyé la sonde.
 ABL_GAIN_LEVERAGE: Gain d'influence
 ABL_GAIN_LEVERAGE_DESC: <<|
 	Donne des cartes d'influence contre tous les empires qui contrôlent les planètes 
@@ -91,13 +91,13 @@ ABL_ANCIENT_EMBASSY_DESC: <<|
 	Ancre une ambassade antique sur l'emplacement ciblé.
 >>
 
-ART_GENESIS_DEVICE: Périphérique de génèse
-ART_GENESIS_DEVICE_DESC: A terraformation device that can change a planet's native resource to a random Tier 2 resource.
+ART_GENESIS_DEVICE: Périphérique de genèse
+ART_GENESIS_DEVICE_DESC: Un dispositif de terraformation qui peut changer les ressources natives d'une planète en une ressources aléatoire de niveau 2.
 ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
 	Terraforme instantanément la planète ciblée en une ressource aléatoire de niveau 2.
 	
-	Supprime toutes les ressources native présentes sur la planète.
+	Supprime toutes les ressources natives présentes sur la planète.
 >>
 
 ART_MIND_CONTROL: Système de contrôle mental

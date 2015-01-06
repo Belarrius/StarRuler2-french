@@ -241,8 +241,24 @@ TRAIT_ENORMOUS_PLANET_DESC: <<|
 	La nôtre est un titan par rapport à laquelle tous les autres mondes sont mesurés. Votre planète mère est une grande (20x15) Planète.
 >>
 
-V_WON_TITLE: Glorious Victory!
-V_WON_TEXT: You have achieved [color=#0f0]victory![/color] All your enemies' rotten planets lie barren, now no more than dead hunks of rock.
+V_WON_TITLE: Glorieuse Victoire !
+V_WON_TEXT: Vous avez obtenu [color=#0f0]la Victoire ![/color] Toutes les races inférieures s'inclinent devant le puissant $2!
 
-V_LOST_TITLE: Game Over: You lose!
-V_LOST_TEXT: You have [color=#f00]lost[/color]! All of your once proud planets lie barren, now no more than dead hunks of rock.
+V_LESSER_TITLE: Petite Victoire...
+V_LESSER_TEXT: Comme un empire vassal, vous avez aidé $1 à conquérir les étoiles. Votre race survit et même prospère, mais elle n'aura plus jamais l'espoir de dominer la galaxie ...
+
+V_LOST_TITLE: Défaite!
+V_LOST_TEXT: <<|
+	Vous avez [color=#f00]Perdu[/color]! Votre quête pour la domination galactique a laissé votre race en ruine, exterminée et asservie sous la domination de $1.
+>>
+
+V_SUBJUGATED: Vassal de $1
+V_RANKINGS: Classements
+
+STAT_PLANETS: Planètes
+STAT_SHIPS: Vaisseau-Amirale
+STAT_STRENGTH: Militaire
+STAT_BUDGET: Budget
+STAT_ENERGY: Énergie
+STAT_INFLUENCE: Influence
+STAT_POINTS: Points
