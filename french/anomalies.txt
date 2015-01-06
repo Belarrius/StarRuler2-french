@@ -317,7 +317,7 @@ ANOMALY_MORPH_GREEN: <<|
 ANOMALY_MORPH_HARVEST: <<|
 	Disassemble the obelisk and drain the power cell for your own use.
 
-	[b][color=#42b4bd][right]Gain 100 Energy.[/right][/color][/b]
+	[b][color=#42b4bd][right]Gain Energy.[/right][/color][/b]
 >>
 ANOMALY_MORPH_RESPONSE: <<|
 	In response to its activation, the obelisk emits an immense particle wave
