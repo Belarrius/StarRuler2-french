@@ -1,26 +1,26 @@
 OPT_GAME: Jeu
-OPT_GALAXY_BG: Afficher la Galaxy en arrière-plan du menu
-OPT_ICONIFY_NOTIFICATIONS: Icone de notification
-OPT_AUTOPAUSE: Pause automatique lors du basculement d'une autre tab
+OPT_GALAXY_BG: Afficher la Galaxie en arrière-plan du menu
+OPT_ICONIFY_NOTIFICATIONS: Icônifier les notifications
+OPT_AUTOPAUSE: Mettre en pause automatiquement lors de l'affichage d'un autre onglet
 
 OPT_KEYBINDS: Raccourci clavier
-OPT_RESET_KEYBINDS: Mettre les raccourci clavier par défaut
-OPT_RESET_SURE: Êtes-vous sûr de vouloir mettre les raccourci clavier par défaut ?
+OPT_RESET_KEYBINDS: Réinitialiser les raccourcis clavier aux valeurs par défaut
+OPT_RESET_SURE: Êtes-vous sûr de vouloir Réinitialiser les raccourcis clavier aux valeurs par défaut ?
 
 OPT_AUDIO: Son
 OPT_MASTER_VOLUME: Volume principale
 OPT_SFX_VOLUME: Volume SFX
-OPT_MUSIC_VOLUME: Volume musique
+OPT_MUSIC_VOLUME: Volume de la musique
 
-OPT_LANGUAGE: Langage*
+OPT_LANGUAGE: Langue*
 LOC_english: English
 LOC_japanese: Japanese
 LOC_french: Français
 
-OPT_MAX_FPS: Limité les FPS
-OPT_AUTOSAVE: Intervale de sauvegarde automatique (en Minutes)
+OPT_MAX_FPS: Limiter les FPS
+OPT_AUTOSAVE: Intervalle de sauvegarde automatique (en Minutes)
 
-KG_Global: Raccourci globale
+KG_Global: Raccourcis clavier globale
 KB_WORLD_FORWARD: Déplacer Haut
 KB_WORLD_LEFT: Déplacer Gauche
 KB_WORLD_BACKWARD: Déplacer Bas
@@ -39,43 +39,43 @@ KB_ZOOM_IN: Zoom avant
 KB_ZOOM_OUT: Zoom arrière
 
 KB_RESET_CAM: Réinitialisé la caméra
-KB_TAKE_SCREENSHOT: Prendre une Screenshot
-KB_TOGGLE_FIREARCS: Toggle Firing Arc Display
+KB_TAKE_SCREENSHOT: Prendre une copie d'écran
+KB_TOGGLE_FIREARCS: Basculer l'affichage des Arc de tir
 
-KB_TAB_NEXT: Tab suivante
-KB_TAB_PREVIOUS: Tab précédente
-KB_TAB_NEW: Ouvrir nouvelle tab
-KB_TAB_NEW_BG: Ouvrir nouvelle tab dans le fond
-KB_TAB_REOPEN: Réouvrir tab fermé
-KB_TAB_CLOSE: Fermé tab
-KB_TAB_HOME: Acceuil tab
-KB_TAB_1: Basculer sur tab 1
-KB_TAB_2: Basculer sur tab 2
-KB_TAB_3: Basculer sur tab 3
-KB_TAB_4: Basculer sur tab 4
-KB_TAB_5: Basculer sur tab 5
-KB_TAB_6: Basculer sur tab 6
-KB_TAB_7: Basculer sur tab 7
-KB_TAB_8: Basculer sur tab 8
-KB_TAB_9: Basculer sur tab 9
+KB_TAB_NEXT: Onglet suivante
+KB_TAB_PREVIOUS: Onglet précédente
+KB_TAB_NEW: Ouvrir nouvel onglet
+KB_TAB_NEW_BG: Ouvrir un nouvel onglet en arrière-plan
+KB_TAB_REOPEN: Réouvrir l'onglet fermé
+KB_TAB_CLOSE: Fermé l'onglet
+KB_TAB_HOME: Onglet d'Acceuil
+KB_TAB_1: Basculer sur l'onglet 1
+KB_TAB_2: Basculer sur l'onglet 2
+KB_TAB_3: Basculer sur l'onglet 3
+KB_TAB_4: Basculer sur l'onglet 4
+KB_TAB_5: Basculer sur l'onglet 5
+KB_TAB_6: Basculer sur l'onglet 6
+KB_TAB_7: Basculer sur l'onglet 7
+KB_TAB_8: Basculer sur l'onglet 8
+KB_TAB_9: Basculer sur l'onglet 9
 
-KB_UI_ZOOM_IN: Zoom interface avant
-KB_UI_ZOOM_OUT: Zoom interface arrière
-KB_UI_ZOOM_RESET: Réinitialisé zoom interface
+KB_UI_ZOOM_IN: Augmenter l'échelle de l'interface
+KB_UI_ZOOM_OUT: Réduire l'échelle de l'interface
+KB_UI_ZOOM_RESET: Réinitialisé l'échelle de l'interface
 
 KB_MP_CHAT: Ouvrir chat message privé
 
 KB_PAUSE: Mettre en Pause
-KB_SPEED_SLOWER: Diminué vitesse de jeu
+KB_SPEED_SLOWER: Diminué la vitesse de jeu
 KB_SPEED_DEFAULT: Vitesse de jeu par défaut
-KB_SPEED_FASTER: Augmenter vitesse de jeu
+KB_SPEED_FASTER: Augmenter la vitesse de jeu
 
 KB_TOGGLE_CONSOLE: Basculer sur la console
-KB_TOGGLE_MENU: Basculer sur le menu du jeu
+KB_TOGGLE_MENU: Basculer sur le menu principale
 KB_GO_MENU: Ouvrir le menu go
 KB_CHANGE_EMPIRE: Changer d'empire
 
-KG_Objects: Objects
+KG_Objects: Objets
 
 KB_GROUP_1: Groupe d'objet 1
 KB_GROUP_2: Groupe d'objet 2
@@ -87,21 +87,41 @@ KB_GROUP_7: Groupe d'objet 7
 KB_GROUP_8: Groupe d'objet 8
 KB_GROUP_9: Groupe d'objet 9
 
-KB_FTL: Sélectionner vaisseau FTL
+KB_FTL: Sélectionner un vaisseau FTL
 KB_HOLD_POSITION: Maintenez la position
-KB_PIN: Épingler objet
-KB_PIN_FLOATING: Épingler objet flottant
+KB_PIN: Épingler l'objet
+KB_PIN_FLOATING: Épingler l'objet flottant
+KB_PING: Avertir les Alliés
+KB_PING_ALL: Avertir tous les Empires
 
 KB_OPTIONS_MENU: Ouvrir le menu options
 
 OPT_GRAPHICS: Graphismes
 OPT_TEX_QUALITY: Qualité des textures*
 OPT_RESOLUTION: Résolution*
+OPT_RES_ENTRY: $1x$2 $3Hz
 OPT_FULLSCREEN: Plein-écran*
-OPT_RESTART: * Vous devez redémarrer le jeu pour que les changements preinnent effets.
+OPT_RESTART: * Vous devez redémarrer le jeu pour que les changements prennent effets.
+OPT_GUI_SCALE: Échelle de l'interface graphique
 
 MONITOR: Moniteur Plein-écran*
 MONITOR_PRIMARY: Moniteur principale
+
+ANTIALIASING: Anti-aliasing*
+AA_None: Désactivé
+AA_2x: 2x MSAA
+AA_4x: 4x MSAA
+AA_8x: 8x MSAA
+AA_Super: 2x FSAA
+
+VSYNC: VSync
+VSYNC_Off: Désactivé
+VSYNC_On: Activé
+VSYNC_OnHalf: Activé (à la moitié de la fréquence d'images)
+VSYNC_Adaptive: Adaptatif
+
+AUDIO_DEVICE: Périphérique Audio*
+AUDIO_DEVICE_DEFAULT: Par Défaut
 
 OPT_CAMERA: Caméra
 OPT_ZOOM_SPEED: Vitesse de zoom
@@ -112,20 +132,27 @@ OPT_INVERT_PAN_Y: Inverser vertical
 OPT_INVERT_ROTATION_X: Inverser rotation horizontal
 OPT_INVERT_ROTATION_Y: Inverser rotation vertical
 OPT_FREE_CAMERA: Activé la rotation de la caméra
-OPT_CURSOR_ZOOM_IN: Zoom avant curseur
-OPT_CURSOR_ZOOM_OUT: Zoom arrière curseur
+OPT_CURSOR_ZOOM_IN: Zoom avant sur le curseur
+OPT_CURSOR_ZOOM_OUT: Zoom arrière depuis le curseur
 OPT_SHOW_GAS: Afficher le gaz de la galaxie
-OPT_EDGE_PAN: Activer bord panoramique
-OPT_DELAY_TOP_EDGE: Délais bords panoramique supérieur
-OPT_CAPTURE_CURSOR: Capturé le curseur
+OPT_EDGE_PAN: Activer le bord panoramique
+OPT_DELAY_TOP_EDGE: Délais du bords panoramique
+OPT_CAPTURE_CURSOR: Capturer le curseur
 
-KG_DesignEditor: Éditeur de conception
+KG_DesignEditor: Éditeur de modèle
 KB_DESIGN_UNDO: Annuler
 KB_DESIGN_REDO: Refaire
-KB_DESIGN_TOOL_PAINT: Sélectionner outil de peinture
-KB_DESIGN_TOOL_MOVE: Sélectionner outil de mouvement
-KB_DESIGN_TOOL_DROP: Sélectionner outil pipette
-KB_DESIGN_SAVE: Sauvegarder conception
-KB_DESIGN_SAVE_CLOSE: Sauvegarder et fermer la conception
-KB_DESIGN_DUPLICATE: Dupliquer la conception
-KB_DESIGN_EXPORT: Exporter conception
+KB_DESIGN_TOOL_PAINT: Sélectionner l'outil de peinture
+KB_DESIGN_TOOL_MOVE: Sélectionner l'outil de mouvement
+KB_DESIGN_TOOL_DROP: Sélectionner l'outil pipette
+KB_DESIGN_SAVE: Sauvegarder le modèle
+KB_DESIGN_SAVE_CLOSE: Sauvegarder et fermer le modèle
+KB_DESIGN_DUPLICATE: Dupliquer le modèle
+KB_DESIGN_EXPORT: Exporter le modèle
+
+KB_EXPORT: Export de Ressource
+KB_CANCEL_EXPORT: Annuler l'Export
+KB_AUTO_IMPORT: Auto-Import
+KB_COLONIZE: Coloniser
+KB_ATTACK: Attaquer
+KB_HOMEWORLD: Zoom sur la Planète Mère
