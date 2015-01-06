@@ -1,4 +1,4 @@
-WIKI_HOME: Acceuil
+WIKI_HOME: Accueil
 WIKI_BACK: Retour
 WIKI_TITLE: Wiki: $1
 WIKI: Wiki
