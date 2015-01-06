@@ -1,41 +1,54 @@
-ERROR_NOT_UNLOCKED: $1 pas déverrouillé
-ERROR_MODULE_NOT_UNLOCKED: Module $1 pas déverrouillé
-ERROR_NO_CORE: $1 nécessite une base
-ERROR_NEEDS_EXTERIOR_CORE: $1's La base doit être à l'extérieur
-ERROR_REQUIRED_MODULE: module $1 absent requis $2
-ERROR_UNIQUE_MODULE: Selement un $2 autorisés sur $1
-ERROR_INSUFFICIENT_Crew: Équipage insuffisant
-ERROR_INSUFFICIENT_Command: Insufficient Command
-ERROR_INSUFFICIENT_Power: Énergie insuffisante
-ERROR_DUPLICATE_DESIGN: Conception avec ce nom existe: renommé en '$1'.
-ERROR_INVALID_FILE: Le fichier n'est pas une conception exporté valide.
+ERROR_NOT_UNLOCKED: $1 non débloqué.
+ERROR_MODULE_NOT_UNLOCKED: Module $1 non débloqué.
+ERROR_NO_CORE: $1 nécessite un noyau.
+ERROR_NEEDS_EXTERIOR_CORE: $1's Le noyau doit être à l'extérieur.
+ERROR_REQUIRED_MODULE: le module $1 requière le module $2 qui est absent.
+ERROR_UNIQUE_MODULE: Un seul $2 admis sur $1.
+ERROR_INSUFFICIENT_Crew: Équipage insuffisant.
+ERROR_INSUFFICIENT_Command: Contrôle Insuffisant.
+ERROR_INSUFFICIENT_Power: Énergie Insuffisante.
+ERROR_DUPLICATE_DESIGN: Un modèle avec ce nom existe: renommer en '$1'.
+ERROR_INVALID_FILE: Le fichier n'est pas un modèle exporté valide.
 ERROR_INVALID_HULL: Vous ne pouvez pas utiliser $1 sur ce type de coque.
-ERROR_MINIMUM_SIZE: '$1' Coque requis la taille minimum de $2.
-ERROR_MAXIMUM_SIZE: '$1' Coque a une taille maximale de $2.
-ERROR_HULL_NOT_IN_SHIPSET: La conception de coque n'est pas disponible avec le modèle actuel.
-ERROR_NEED_CONTROL: At least 1 Command requir
-DESIGNS: Conceptions
+ERROR_MINIMUM_SIZE: '$1' Coque requières la taille minimum de $2.
+ERROR_MAXIMUM_SIZE: '$1' Coque a une taille maximum de $2.
+ERROR_HULL_NOT_IN_SHIPSET: Ce modèle de coque n'est pas disponible avec le modèle actuel.
+ERROR_NEED_CONTROL: Au moins 1 contrôle nécessaire.
+ERROR_HEX_LIMIT_ARC: $1 la tourelle doit pointer vers l'extérieur.
+ERROR_FACE_BACKWARDS: $1 l'échappement doit faire face à l'arrière.
+ERROR_NOT_CONNECTED: Le design doit former un tout connecté.
+ERROR_NOT_CONTIGUOUS: $1 doit être une zone contiguë.
+ERROR_TOO_SMALL: $1 trop petit.
+DESIGNS: Modèles
+DSG_INSERT_NAME: Entrer un Nom pour le modèle...
+AUTO_SELECT_HULL: sélectionner automatiquement le modèle de coque...
+FORCE_HULL: Modèle de coque: $1
+
+TIP_ROTATE: Vous pouvez faire pivoter l'orientation d'une tourelle en utilisant la molette de défilement.
 
 HULL_EDITOR: Éditeur de coque
 HULL_FILES: Fichiers:
 HULL_HULLS: Coques:
-HULL_EDITOR_HELP: Clic gauche pour activer hex.\nClic droite pour désactiver hex.\nClic du millieux pour basculer en extérieur.
+HULL_EDITOR_HELP: Clic gauche pour activer hex.\nClic droite pour désactiver hex.\nClic du milieux pour basculer en extérieur.
 HULL_ID: ID:
 HULL_NAME: Nom:
-HULL_BACKGROUND: Fond:
+HULL_BACKGROUND: Arrière plan:
 HULL_MODEL: Modèle:
 HULL_MATERIAL: Matériel:
-HULL_ICON: Fiche d'icone:
-HULL_ICON_INDEX: Index d'icone:
+HULL_ICON: Fiche d'icône:
+HULL_ICON_INDEX: Index d'icône:
 HULL_HEX_SIZE: Taille Hex:
 HULL_GRID_OFFSET: Grid Offset:
-HULL_BACKGROUND_SCALE: Taille de fond:
-HULL_INTEGRITY: Intégrité coque:
+HULL_BACKGROUND_SCALE: Taille de l'arrière plan:
+HULL_INTEGRITY: Intégrité de la coque:
+SUBSYS_CORE: Noyau
+SUBSYS_AT: " à "
+SUBSYS_HEX: "Hexagone "
 
-HULL_DELETE_FILE_CONFIRM: Etes-vous sûr de vouloir supprimer le fichier de la coque '$1'?
-HULL_DELETE_HULL_CONFIRM: Etes-vous sûr de vouloir supprimer la coque '$1'?
+HULL_DELETE_FILE_CONFIRM: Êtes-vous sûr de vouloir supprimer le fichier de la coque '$1'?
+HULL_DELETE_HULL_CONFIRM: Êtes-vous sûr de vouloir supprimer la coque '$1'?
 HULL_CLEAR: Effacer les coques
-HULL_CONFIRM_CLEAR: Etes-vous sûr de vouloir effacer les données de la coque?
+HULL_CONFIRM_CLEAR: Êtes-vous sûr de vouloir effacer les données de la coque?
 
 IMPORT_ERRORS: Les erreurs suivantes sont survenues lors de l'importation:
 IMPORT_INTO_CLASS: Importer dans la classe:
@@ -52,10 +65,81 @@ SANDBOX_CONFIRM_CLEAR: Êtes-vous sûr de vouloir détruire tous les vaisseaux d
 SANDBOX_DESC: Bienvenue dans le sandbox des conceptions !\nLes conceptions sont auto-exporté ici\nUtilisez 'importer conception' pour les charger en jeu.
 SANDBOX_SAVE_EXPORT: Sauver + Exporter
 
-TT_EDIT_DESIGN: Modifier cette conception.
-TT_OBSOLETE_DESIGN: Marquer cette conception comme obsolète. Il n'apparaît plus dans la liste. Les conceptions obsolète ne seront plus construit automatiquement par la défense.
-TT_UNOBSOLETE_DESIGN: Marquer cette conception comme actif, retirant sont statut obsolète.
+TT_EDIT_DESIGN: Modifier ce modèle.
+TT_OBSOLETE_DESIGN: Marquer ce modèle comme obsolète. Il n'apparaîtra plus dans la liste. Les conceptions obsolète ne seront plus construit automatiquement par la défense.
+TT_UNOBSOLETE_DESIGN: Marquer ce modèle comme actif, retire le statut obsolète.
 SHOW_OBSOLETE: Afficher obsolète
-TT_SHOW_OBSOLETE: Basculer l'affichage des conceptions marquer comme obsolètes.
-TT_SUPPORT_DESIGN: Cette conception utilise une coque de vaisseau de support. Les vaisseaux de support ne peuvent se déplacer de façon indépendante et ne peuvent agir que dans le cadre d'une flotte autour d'un vaisseau mère ou d'une planète.
-TT_FLAGSHIP_DESIGN: Cette conception utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombe de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouver de mieux pour "Support Command" besoin d'avis/d'aide
+TT_SHOW_OBSOLETE: Basculer pour afficher les modèles marquer comme obsolètes.
+TT_SUPPORT_DESIGN: Ce modèle utilise une coque de vaisseau de support. Les vaisseaux de support ne peuvent se déplacer de façon indépendante et ne peuvent agir que dans le cadre d'une flotte autour d'un vaisseau mère ou d'une planète.
+TT_FLAGSHIP_DESIGN: Ce modèle utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombe de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouver de mieux pour "Support Command" besoin d'avis/d'aide
+TT_STATION_DESIGN: Ce modèle utilise une coque de station. Les stations ne peuvent pas se déplacer, mais elle peuvent être construite à distance en orbite.
+
+S_HP: Total Health
+S_HexHP: Health
+STT_HP: The sum hitpoints of all hexes on the design.
+
+S_REPAIR: Repair / Second
+STT_REPAIR: The amount of hitpoints the ship can repair per second. Reduced to 25% of the normal rate during combat.
+
+S_Shield: Shield Capacity
+STT_Shield: Maximum hitpoints of the shield.
+
+S_ShieldRegen: Shield Regen
+STT_ShieldRegen: Shield hitpoints regenerated per second.
+
+S_DPS: Damage / Second
+STT_DPS: Total damage per second (DPS) dealt by the ship in combat, when undamaged.
+
+S_SUPPLYCAP: Supply Capacity
+STT_SUPPLYCAP: The total amount of supply this flagship can store.
+
+S_SUPPORTCAP: Support Command
+STT_SUPPORTCAP: The sum size of support ships this flagship has the capacity to command.
+
+S_ACCEL: Acceleration
+STT_ACCEL: The maximum acceleration the ship can maintain in transit.
+
+S_THRUST: Thrust
+STT_THRUST: Maximum amount of sublight thrust the ship's engines are capable of generating.
+
+S_MASS: Mass
+STT_MASS: Total mass of the ship.
+
+S_SUPPLYREGEN: Resupply Rate
+STT_SUPPLYREGEN: Amount of supply regenerated per second in uncontested space.
+
+S_SUPPLYUSE: Combat Supply Use
+STT_SUPPLYUSE: Amount of supply used by this ship per second while firing all weapons in combat.
+
+S_POWER: Power
+STT_POWER: Amount of power generated and used up by the subsystems on the ship.
+
+S_CONTROL: Control
+STT_CONTROL: Amount of control generated and used up by the subsystems on the ship.
+
+S_HYPERDRIVESPEED: Hyperdrive Speed
+STT_HYPERDRIVESPEED: The speed this ship is capable of maintaining while traveling through hyperspace when undamaged.
+
+S_SLIPSTREAMTIME: Slipstream Time
+STT_SLIPSTREAMTIME: The duration any slipstream tears created by this ship stay open.
+
+S_DPS_SMALL: DPS
+S_DAMAGE: Damage
+S_BEAMDPS: Beam DPS
+S_DURATION: Duration
+S_COOLDOWN: Cooldown
+S_RELOAD: Reload
+S_RADIUS: Radius
+S_RANGE: Range
+S_SPEED: Speed
+S_PROJ_DR: Projectile DR
+S_BEAM_DR: Beam DR
+S_EXPL_DR: Explosive DR
+S_DR: Damage Resistance
+S_DamageThreshold: Damage Threshold
+S_SUPPLYCOST: Supply Cost
+S_BUILDCOST: Cost
+S_LABORCOST: Labor Cost
+S_RESUPPLY: Resupply
+S_ENERGYCOST: Energy Cost
+S_COST_FACTOR: Cost Factor
