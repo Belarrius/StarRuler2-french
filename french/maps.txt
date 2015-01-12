@@ -1,7 +1,7 @@
-SPIRAL_GALAXY: Galaxie spirale
+SPIRAL_GALAXY: Galaxie en Spirale
 SPIRAL_GALAXY_DESC: Une galaxie en spirale à multiple bras.
 
-CORKSCREW_GALAXY: Galaxie en tire-bouchon
+CORKSCREW_GALAXY: Galaxie en Tire-Bouchon
 CORKSCREW_GALAXY_DESC: Une galaxie avec des étoiles tournant en cercle sur une seule bande.
 
 CLUSTERS_MAP: Galaxie en Grappe
@@ -19,7 +19,7 @@ TT_PERFECT_MIRROR: <<|
 
 EXPANSE_MAP: l'Étendue
 EXPANSE_MAP_DESC: <<|
-	Capturez le monde natal des reliques ou développer vous dans le vide sans fin.
+	Capturez le monde natal des Anciens ou développer vous dans le vide sans fin.
 >>
 EXPANSE_MAP_TEXT: <<
 	[i][color=#aaa]Les Empires entourent le monde natal des reliques. Des flottes de reliques peuvent être vaincus afin de permettre la colonisation des planètes intérieures. LEs flottes de reliques protègent les systèmes près du bord de la galaxie, battre ces flottes permet l'expansion et de la découverte de plus de systèmes non détectés.[/color][/i]

@@ -18,7 +18,7 @@ LOC_japanese: Japanese
 LOC_french: Français
 
 OPT_MAX_FPS: Limiter les FPS
-OPT_AUTOSAVE: Intervalle de sauvegarde automatique (en Minutes)
+OPT_AUTOSAVE: Sauvegarde Auto (en Minutes)
 
 KG_Global: Raccourcis clavier globale
 KB_WORLD_FORWARD: Déplacer Haut

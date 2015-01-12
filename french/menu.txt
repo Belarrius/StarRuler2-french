@@ -95,7 +95,7 @@ SYSTEM_SPACING: Espacement
 CONNECT_ENDS: Avec passage Trou de ver 
 TEAM: Équipe
 TEAM_TEXT: Équipe $1
-+NO_TEAM: Pas d'équipe
+NO_TEAM: Pas d'équipe
 
 NG_GAME_OPTIONS: Options de la partie
 
@@ -119,12 +119,12 @@ NGTT_TIME_LIMIT: <<|
 NG_REMNANT_AGGRESSION: Agression des Anciens
 NGTT_REMNANT_AGGRESSION: Permettre aux flottes d'anciens de se déplacer pour intercepter les flottes ennemies à proximité.
 NG_DISABLE_STARTING_FLEETS: Désactiver les flottes de vaisseaux du départ
-NGTT_DISABLE_STARTING_FLEETS: Désactiver les flottes de départ libres que chaque empire obtient à partir de leur trait de gouvernement.
+NGTT_DISABLE_STARTING_FLEETS: Désactiver les flottes de départ que chaque empire obtient à partir de leur trait de gouvernement.
 NG_ENABLE_REVENANT_PARTS: Activer les Artefacts d'Ancien
 NGTT_ENABLE_REVENANT_PARTS: <<|
-	Quand elle est cochée, les quatre pièces d'artefacts d'Anciens seront répartis autour de l'univers.
+	Cochée, quatre pièces d'artefacts des Anciens seront répartis autour de l'univers.
 
-	L'activation d'une pièce d'artefacts d'Anciens donne un bonus. Posséder les quatre pièces activent, donne le contrôle sur le vaisseau de guerre le plus puissant de l'univers.
+	L'activation d'une pièce d'artefacts donne un bonus. Posséder les quatre pièces actives, donne le contrôle sur le vaisseau de guerre le plus puissant de l'univers.
 >>
 NG_ALLOW_TEAM_SURRENDER: Permettre de ce rendre, pour rompre Les équipes
 NGTT_ALLOW_TEAM_SURRENDER: <<
@@ -132,7 +132,7 @@ NGTT_ALLOW_TEAM_SURRENDER: <<
 >>
 NG_ENABLE_DREAD_PIRATE: Activer le Pirate de l'Effroi
 NGTT_ENABLE_DREAD_PIRATE: <<
-	Lorsque le Pirate de l'Effroi est activée, un bateau pirate errera la galaxie se attaquant à désarmés navires de commerce civils.
+	Lorsque le Pirate de l'Effroi est activée, un bateau pirate erre dans la galaxie s'attaquant au vaisseaux de commerce civils désarmés.
 
 	Le pirate stocke son butin dans plusieurs stations de stock pirates cachés dans l'espace profond. Détruire l'une des stations de stockage de trésors ou tuer le Pirate de l'Effroi lui-même pour obtenir l'argent volé dans les fonds spéciaux.
 >>
@@ -151,7 +151,7 @@ NGTT_ENABLE_INFLUENCE_EVENTS: <<
 
 FLATTEN: Aplatir
 
-TEX_QUAL_2: Mauvais
+TEX_QUAL_2: Bas
 TEX_QUAL_3: Moyen
 TEX_QUAL_4: Haut
 TEX_QUAL_5: Ultra
