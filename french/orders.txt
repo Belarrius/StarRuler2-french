@@ -1,5 +1,8 @@
 MOVE_TO: Déplacer vers
 ATTACK: Attaquer
+ATTACK_TARGET: Attaquer $1
+ONLY_ATTACKABLE: Peut seulement attaquer les navires, les structures orbitales et les planètes.
+ONLY_WAR: Doit être en guerre.
 PICK_UP: Ramasser
-RALLY_TO: Rassemblement pour $1
+RALLY_TO: Rassemblement sur $1
 STOP_RALLY: Stopper rassemblement

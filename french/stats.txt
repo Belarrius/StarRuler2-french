@@ -13,3 +13,9 @@ STAT_SupplyGen: Génération de Provision
 STAT_SupplyUse: Consommation de Provision
 STAT_MetalsGen: Génération de Metal
 STAT_MetalsUse: Consommation de Metal
+
+STAT_NET_BUDGET: Budget Net
+STAT_ENERGY_INCOME: Energie/s
+STAT_INFLUENCE_INCOME: Influence/m
+STAT_RESEARCH_INCOME: Recherche/s
+STAT_RESEARCH_TOTAL: Recherche

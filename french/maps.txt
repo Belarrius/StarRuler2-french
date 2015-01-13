@@ -1,8 +1,26 @@
-SPIRAL_GALAXY: Galaxie spirale
+SPIRAL_GALAXY: Galaxie en Spirale
 SPIRAL_GALAXY_DESC: Une galaxie en spirale à multiple bras.
 
-CORKSCREW_GALAXY: Galaxie en tire-bouchon
+CORKSCREW_GALAXY: Galaxie en Tire-Bouchon
 CORKSCREW_GALAXY_DESC: Une galaxie avec des étoiles tournant en cercle sur une seule bande.
 
-CLUSTERS_MAP: Galaxie en Groupe
-CLUSTERS_MAP_DESC: Une galaxie en petits groupes relié par des couloirs étroits.
+CLUSTERS_MAP: Galaxie en Grappe
+CLUSTERS_MAP_DESC: Une galaxie en petites grappes reliées par des couloirs étroits.
+
+DUMBBELL_MAP: Galaxie en Haltère
+DUMBBELL_MAP_DESC: Deux grandes grappes reliées par une longue barre de systèmes dans le milieu.
+
+PERFECT_MIRROR: Miroir Parfait
+TT_PERFECT_MIRROR: <<|
+	Force les deux côtés de la galaxie à être un miroir parfait l'un de l'autre, y compris tous les planètes générées, les artefacts, les anomalies, les restes, etc.
+
+	Conçu pour une utilisation en 1v1 ou les jeux d'équipe équilibrés.
+>>
+
+EXPANSE_MAP: l'Étendue
+EXPANSE_MAP_DESC: <<|
+	Capturez le monde natal des Anciens ou développer vous dans le vide sans fin.
+>>
+EXPANSE_MAP_TEXT: <<
+	[i][color=#aaa]Les Empires entourent le monde natal des reliques. Des flottes de reliques peuvent être vaincus afin de permettre la colonisation des planètes intérieures. LEs flottes de reliques protègent les systèmes près du bord de la galaxie, battre ces flottes permet l'expansion et de la découverte de plus de systèmes non détectés.[/color][/i]
+>>

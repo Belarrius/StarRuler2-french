@@ -1,18 +1,19 @@
 PORTRAIT: Portrait
-RACE_NAME: Nom Race
+RACE_NAME: Nom de la Race
 FTL_METHOD: Méthode FTL
 SHIPSET: Type de vaisseaux
 WEAPON_SKIN: Couleur des armes
+EMPIRE_UNIVERSE: Galaxie
 
 TT_DIFF: [font=Medium]Difficulté:[/font]
-DIFF_PASSIVE: [img=HappyFace;40][b][color=#0f0]Passif[/color][/b]\n[i]Ne déclare pas la guerre à des empire controlées par des humains.[/i][/img]
+DIFF_PASSIVE: [img=HappyFace;40][b][color=#0f0]Passif[/color][/b]\n[i]Ne déclare pas la guerre à des empire contrôlées par des humains.[/i][/img]
 DIFF_EASY: [img=StatusPeace;40][b]Facile[/b]\n[i]Un adversaire facile pour débuter.[/i][/img]
 DIFF_NORMAL: [img=StatusWar;40][b]Normal[/b]\n[i]Un challenge modérer.[/i][/img]
 DIFF_HARD: [img=StatusCeaseFire;40][b]Difficile[/b]\n[i]Une I.A. avec toutes ces capacités.[/i][/img]
-DIFF_MURDEROUS: [img=AttributeIcons::3;40][b][color=#ff9000]Meurtrier[/color][/b]\n[i]Va tenter de détruire les empires controlées par les humains par dessus tout.[/i][/img]
+DIFF_MURDEROUS: [img=AttributeIcons::3;40][b][color=#ff9000]Meurtrier[/color][/b]\n[i]Va tenter de détruire les empires contrôlées par les humains par dessus tout.[/i][/img]
 DIFF_SAVAGE: [img=VoteIcons::3;40][b][color=#f00]Sauvage[/color][/b]\n[i]Va [b]tricher[/b] contre vous et aura des ressources illimité pour vous détruire.[/i][/img]
 
-CUSTOMIZE_RACE: Personnalisez race...
+CUSTOMIZE_RACE: Personnalisez la race...
 RACE_OVERVIEW: Vue d'ensemble
 RACE_PROFILE: Profil
 TRAITS: Caractéristiques
@@ -41,12 +42,12 @@ TRAIT_POOR_DESC: <<|
 
 TRAIT_INDUSTRIOUS: Industrieux
 TRAIT_INDUSTRIOUS_DESC: <<|
-	Votre planète d'origine commence avec un bonus de $1 de main-d'œuvre supplémentaire.
+	Votre planète d'origine commence avec un bonus de $1 en main-d'œuvre supplémentaire.
 >>
 
 TRAIT_FTLCACHE: Stockage de FTL
 TRAIT_FTLCACHE_DESC: <<|
-	Commencez avec $1 d'énergie FTL, mais aucune génération.
+	Commencez avec $1 d'énergie FTL, mais aucune régénération.
 >>
 
 TRAIT_PLANTATION: Plantation
@@ -59,22 +60,22 @@ TRAIT_CUNNING_DESC: <<|
 	Commencez avec un supplément de $1 carte aléatoire d'influence.
 >>
 
-TRAIT_CRUDE: Brut // Sa fais étrange.. besoin d'avis svp !
+TRAIT_CRUDE: Brut de fonderie
 TRAIT_CRUDE_DESC: <<|
-	Tout les vaisseaux ont une augmenation de $1% sur leurs coût.
+	Tout les vaisseaux coûtent $1% en plus pour être construit.
 >>
 
 TRAIT_INEFFICIENT: Inefficace
 TRAIT_INEFFICIENT_DESC: <<|
-	Toutes les armes consomment $1x plus de ressouces lors des tirs.
+	Toutes les armes consomment $1x plus de ressources lors des tirs.
 >>
 
 TRAIT_EMPIRE: Gouvernement: Empire
 TRAIT_EMPIRE_DESC: <<|
  [b][color=#a06911]Astéroïdes proches supplémentaires[/color][/b].
  [b][color=#f00]Flotte:[/color][/b] Heavy Carrier avec support.
- [b][color=#0087c7]Cartes:[/color][/b] 8x Négociation, 1x Nommer Vaisseau Mère, 1x Nommer Planète.
->> // "Heavy Carrier avec support" A vérif
+ [b][color=#0087c7]Cartes:[/color][/b] 5x Négociation, 1x Nommer Vaisseau Mère, 1x Nommer Planète.
+>>
 
 TRAIT_COMMUNISM: Gouvernement: Communisme
 TRAIT_COMMUNISM_DESC: <<|
@@ -86,7 +87,7 @@ TRAIT_COMMUNISM_DESC: <<|
 TRAIT_THEOCRACY: Gouvernement: Théocratie
 TRAIT_THEOCRACY_DESC: <<|
  [b][color=#00c0ff]250 FTL[/color][/b].
- [b][color=#f00]Flotte:[/color][/b] 2x Éclaireur, 1x Cuirassier, Défense planète mère.
+ [b][color=#f00]Flotte:[/color][/b] 2x Éclaireur, 1x Cuirassier, Défense de la Planète Mère.
  [b][color=#0087c7]Cartes:[/color][/b] 1x Promesses, 1x Conaissances Ancienne, 2x Système de protection, 1x Acceuillir Sénat Galactique.
 >>
 
@@ -129,119 +130,135 @@ TRAIT_SLIPSTREAM_DESC: <<|
 
 TRAIT_ANCIENT_VESSEL: Ancien navire
 TRAIT_ANCIENT_VESSEL_DESC: <<|
-	Ce fier vaisseau à longtemps survolé votre planète.
-	Commencez avec un fier vaisseau-mère.
+	Cet énorme vaisseau à longtemps survolé notre planète. Maintenant, nous allons le récupérer.
+	Commencez avec un vaisseau-Amirale de la race des Anciens.
 >>
 
-TRAIT_MANIFEST_DESTINY: Manifest Destiny
+TRAIT_MANIFEST_DESTINY: Destinée Manifeste
 TRAIT_MANIFEST_DESTINY_DESC: <<|
-	The worlds of the galaxy are ours to command.
-	Use 25% less supply when performing a siege on an enemy world.
+	Les mondes de la galaxie nous appartiennent, à nous de les commander.
+	Utilise 25% de moins en approvisionnement lors de l'exécution d'un siège sur un monde ennemi.
 >>
 
-TRAIT_MILITARY_INDUSTRIAL_COMPLEX: Military Industrial Complex
+TRAIT_MILITARY_INDUSTRIAL_COMPLEX: Complexe Industriel Militaire
 TRAIT_MILITARY_INDUSTRIAL_COMPLEX_DESC: <<|
-	We have long held standing armies; this continues to be the case. Start with 50 Labor
-	in free support ships.
+	Nous avons longtemps maintenu une armées permanentes, cela continue d'être le cas.
+	Commencez avec 50 Unités de Travail, à bord de navires de soutien gratuits.
 >>
 
-TRAIT_FORTIFIED: Fortified
+TRAIT_FORTIFIED: Monde Fortifié
 TRAIT_FORTIFIED_DESC: <<|
-	Your Homeworld starts with a native Pekelm.
+	Votre Planète Mère commence avec un Pekelm natif.
 >>
 
-TRAIT_PYROMANIA: Pyromania
+TRAIT_PYROMANIA: Pyromanie
 TRAIT_PYROMANIA_DESC: <<|
-	Missile-based weapons deal 25% more damage. Damage from fires aboard your ships is doubled.
+	Les armes basées sur les missiles font 25% de dommage en plus. Les dégâts causés par des incendies à bord de vos vaisseaux sont doublés.
 >>
 
-TRAIT_VIRILE: Virile
+TRAIT_VIRILE: Viril
 TRAIT_VIRILE_DESC: <<|
-	The population on your homeworld grows twice as fast.
+	La population de votre monde natal se développe deux fois plus vite.
 >>
 
-TRAIT_SEDENTARY: Sedentary
+TRAIT_SEDENTARY: Sédentaire
 TRAIT_SEDENTARY_DESC: <<|
-	Building construction is 30% slower. Applies to civilian as well as imperial infrastructure.
+	La construction de bâtiments est 30% plus lente. S'applique aux civils et aux infrastructures impériale.
 >>
 
 TRAIT_SUBLIGHT: Sublight
 TRAIT_SUBLIGHT_DESC: <<|
-	We have not discovered any means to break the lightspeed barrier. No FTL drive, FTL generation, or FTL storage.
+	Nous n'avons pas découvert de moyen pour dépasser la limite de la vitesse de la lumière. Pas de propulsion FTL, ni de génération de FTL, ou de stockage FTL.
 >>
 
-TRAIT_PIOUS: Tendency: Pious
+TRAIT_PIOUS: Tendance: Pieux
 TRAIT_PIOUS_DESC: <<|
-	Abilities: Incapacitate, Press the Attack, Warchest Contributions, Pilgrimage.
+	Capacités: Hors de combat, Appuyez l'attaque, Contributions aux trésor de guerre, Pèlerinage.
 >>
 
-TRAIT_SPACE_PROGRAM: Space Program
+TRAIT_SPACE_PROGRAM: Programme spatial
 TRAIT_SPACE_PROGRAM_DESC: <<|
-	We have examined our surroundings for decades. Nearby systems are pre-scouted at the start of the game.
+	Nous avons examiné notre environnement pendant des décennies. Les systèmes à proximité sont  déjà repéré au début du jeu.
 >>
 
-TRAIT_REVOLUTIONARIES: Revolutionaries
+TRAIT_REVOLUTIONARIES: Révolutionnaires
 TRAIT_REVOLUTIONARIES_DESC: <<|
-	They shall take our lives before they take our empire! Planets under siege generate support ships.
+	Ils prennent nos vies avant de prendre notre empire! Les planètes assiégées génèrent des navires de soutien.
 >>
 
-TRAIT_EMPATHIC: Empathic
+TRAIT_EMPATHIC: Empathie
 TRAIT_EMPATHIC_DESC: <<|
-	We wield our ability to sense emotion as a warrior wields a sword. The support values of Leverage and Negotiate cards are doubled when you play them.
+	Nous exerçons notre capacité à sentir l'émotion comme un guerrier manie une épée. Les valeurs d'Influence et de négociation des cartes sont doublés lorsque vous les jouez.
 >>
 
-TRAIT_CHARISMATIC: Charismatic
+TRAIT_CHARISMATIC: Charismatique
 TRAIT_CHARISMATIC_DESC: <<|
-	Our strength of will provides a powerful shield against our opponents. Propositions you start begin with 3 extra Support.
+	Notre force de volonté fournit un puissant bouclier contre nos adversaires. Vous commencez avec 3 point de soutien supplémentaire.
 >>
 
-TRAIT_SOCIAL_PARANOIA: Social Paranoia
+TRAIT_SOCIAL_PARANOIA: Paranoïa Sociale
 TRAIT_SOCIAL_PARANOIA_DESC: <<|
-	Our social paranoia tends to work against us with other races. Propositions you start begin with 3 less Support.
+	Notre paranoïa sociale tend à travailler contre nous avec les autres races. Vous commencez avec 3 point de soutien en moins.
 >>
 
-TRAIT_EUPHORIC: Euphoric
+TRAIT_EUPHORIC: Euphorique
 TRAIT_EUPHORIC_DESC: <<|
-	We ride on an endless wave of euphoria, together. All Level 2+ planets are Happy.
+	Nous roulons sur une vague d'euphorie sans fin, ensemble. Toutes les planètes Niveau 2+ sont heureuses.
 >>
 
-TRAIT_GENEROUS: Generous
+TRAIT_GENEROUS: Généreux
 TRAIT_GENEROUS_DESC: <<|
-	Our generosity is a powerful ally for our cause. Empires you are allied with receive half the benefit of your Welfare option.
+	Notre générosité est un puissant allié pour notre cause. Les empires avec qui vous êtes allié reçoivent la moitié du bénéfice de votre option de bien-être.
 >>
 
-TRAIT_RED_TAPE: Red Tape
+TRAIT_RED_TAPE: Paperasserie
 TRAIT_RED_TAPE_DESC: <<|
-	The jewels of our political influence often get buried under the weight of our administration's red tape. Each six minutes you hold a card reduces that card's quality by 1.
+	Les joyaux de notre influence politique sont souvent enterrés sous le poids de la bureaucratie de notre administration. Chaque 6 minutes vous tirer une carte dont la qualité est réduite de 1.
 >>
 
-TRAIT_WAR_MINDED: War Minded
+TRAIT_WAR_MINDED: Esprit Guerrier
 TRAIT_WAR_MINDED_DESC: <<|
-	We have little interest in galactic politics. Support and Vote cards cost 1 extra Influence to play.
+	Nous avons peu d'intérêt pour la politique galactiques. Les cartes de soutien et de vote coûtent 1 point d'influence supplémentaire à jouer.
 >>
 
-TRAIT_PATENT_PENDING: Patent Pending
+TRAIT_PATENT_PENDING: En attente de brevet
 TRAIT_PATENT_PENDING_DESC: <<|
-	They shall come to fear the theft of our ideas. When you complete a research Project gain a Leverage card for each Empire which has also completed that research.
+	Ils en sont venus à craindre le vol de nos idées. Lorsque vous avez terminé un projet de recherche gagner une carte d'influence pour chaque empire qui a également terminé cette recherche.
 >>
 
-TRAIT_SEQUESTERED_SOCIETY: Sequestered Society
+TRAIT_SEQUESTERED_SOCIETY: Société Séquestré
 TRAIT_SEQUESTERED_SOCIETY_DESC: <<|
-	We have lived a quiet life so far but now is the time to reach for the stars. Your homeworld begins with all its tiles fully developed.
+	Nous avons vécu une vie tranquille jusqu'à présent, mais c'est maintenant le temps pour atteindre les étoiles. Votre planète mère commence avec toutes ses tuiles pleinement développés.
 >>
 
-TRAIT_DWARF_PLANET: Dwarf Planet
+TRAIT_DWARF_PLANET: Planète Naine
 TRAIT_DWARF_PLANET_DESC: <<|
-	We may have outgrown our cradle but an infinite number of worlds await us in the heavens. Your homeworld is a Small (8x5) Planet.
+	Nous somme devenu trop nombre pour notre berceau, mais un nombre infini de mondes nous attendent dans les cieux. Votre planète mère est une petite (8x5) Planète.
 >>
 
-TRAIT_ENORMOUS_PLANET: Enormous Planet
+TRAIT_ENORMOUS_PLANET: Planète Énorme
 TRAIT_ENORMOUS_PLANET_DESC: <<|
-	Ours is a titan against which all other worlds are measured.  Your homeworld is a Large (20x15) Planet.
+	La nôtre est un titan par rapport à laquelle tous les autres mondes sont mesurés. Votre planète mère est une grande (20x15) Planète.
 >>
 
-V_WON_TITLE: Glorious Victory!
-V_WON_TEXT: You have achieved [color=#0f0]victory![/color] All your enemies' rotten planets lie barren, now no more than dead hunks of rock.
+V_WON_TITLE: Glorieuse Victoire !
+V_WON_TEXT: Vous avez obtenu [color=#0f0]la Victoire ![/color] Toutes les races inférieures s'inclinent devant le puissant $2!
 
-V_LOST_TITLE: Game Over: You lose!
-V_LOST_TEXT: You have [color=#f00]lost[/color]! All of your once proud planets lie barren, now no more than dead hunks of rock.
+V_LESSER_TITLE: Petite Victoire...
+V_LESSER_TEXT: Comme un empire vassal, vous avez aidé $1 à conquérir les étoiles. Votre race survit et même prospère, mais elle n'aura plus jamais l'espoir de dominer la galaxie ...
+
+V_LOST_TITLE: Défaite!
+V_LOST_TEXT: <<|
+	Vous avez [color=#f00]Perdu[/color]! Votre quête pour la domination galactique a laissé votre race en ruine, exterminée et asservie sous la domination de $1.
+>>
+
+V_SUBJUGATED: Vassal de $1
+V_RANKINGS: Classements
+
+STAT_PLANETS: Planètes
+STAT_SHIPS: Vaisseau-Amirale
+STAT_STRENGTH: Militaire
+STAT_BUDGET: Budget
+STAT_ENERGY: Énergie
+STAT_INFLUENCE: Influence
+STAT_POINTS: Points

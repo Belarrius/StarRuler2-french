@@ -2,17 +2,17 @@ FTL: FTL
 INSUFFICIENT_FTL: Insufficient FTL
 NEED_FLING_BEACON: Nécessite une Balise de Saut
 OUT_OF_BEACON_RANGE: Trop loin d'une Balise de Saut
-PER_SECOND: /s
+PER_SECOND: /sec
 PER_MINUTE: /min
-BUILD_FOR: Build Time: $1
-BUILD_TIME: Build Time
-EST_BUILD_TIME: Est. Build Time
-EST_COOLDOWN: Est. Cooldown
+BUILD_FOR: Temps de Construction : $1
+BUILD_TIME: Temps de Construction
+EST_BUILD_TIME: Temps de Construction Estimé
+EST_COOLDOWN: Temps de recharge Estimé
 BUILD_TIME_S: $1s
 BUILD_TIME_MS: $1m $2s
 CONSTRUCTION: Construction
 RESOURCES_OF: $1x out of
-TYPES_OF: $1 type(s) of
+TYPES_OF: $1 type(s) de
 NEED_BORROW: Cannot afford on current budget. [color=#ff0]$1[/color] will be borrowed, costing [color=#ff0]$2[/color] from the next budget.
 CANNOT_BORROW: Cannot afford on current budget. Next budget is not sufficient to borrow remaining cost.
 CANNOT_EXPORT: \n[right]Cannot be exported[/right]
@@ -154,14 +154,14 @@ WATER_DESC: <<|
 GRAIN: Grain (Food)
 GRAIN_EFFECT: Pop. Growth
 GRAIN_DESC: <<
-	[b]Boosts the native resource with:[/b]
+	[b]Stimule la ressource d'origine avec:[/b]
 	[offset=30]1 Overpopulation[/offset]
 >>
 
 MEAT: Meat (Food)
 MEAT_EFFECT: Building Construction
 MEAT_DESC: <<
-	[b]Boosts the native resource with:[/b]
+	[b]Stimule la ressource d'origine avec:[/b]
 	[offset=30]Reduce building maintenance by up to §100k.[/offset]
 >>
 
@@ -169,14 +169,14 @@ FRUIT: Fruit (Food)
 FRUIT_EFFECT: Undeveloped Maint.
 
 FRUIT_DESC: <<
-	[b]Boosts the native resource with:[/b]
+	[b]Stimule la ressource d'origine avec:[/b]
 	[offset=30]+20% Extra pressure given.[/offset]
 >>
 
 FISH: Fish (Food)
 FISH_EFFECT: Developed Tiles
 FISH_DESC: <<
-	[b]Boosts the native resource with:[/b]
+	[b]Stimule la ressource d'origine avec:[/b]
 	[offset=30]Increases lifetime of consumed temporary resources by 30%.[/offset]
 >>
 
@@ -480,40 +480,40 @@ BOOST_WATER: Reactive Water
 BOOST_WATER_DESC: <<|
 	Created from bonding 4 Water.
 
-	[b]Boosts the native resource with:[/b]
+	[b]Stimule la ressource d'origine avec:[/b]
 	[nl/][offset=30]+$1 Extra pressure given.[/offset]
 >>
 
-CLEAR_WATER: Clear Water
+CLEAR_WATER: Eau claire
 CLEAR_WATER_DESC: <<|
-	Created from bonding 8 Water.
+	Créé à partir de 8 ressources d'eau liées.
 
-	Converts all civilian Influence, Defense, Research and Energy production
-	into money generation.
+	Convertit toutes les productions civile d'Influence, de Défense, de Recherche et d'Énergie
+	en génération d'argent.
 >>
 
-AWESOME_WATER: Phoenix Water
+AWESOME_WATER: Eau du Phoenix
 AWESOME_WATER_DESC: <<|
-	Created from bonding 16 Water.
+	Créé à partir de 16 ressources d'eau liées.
 
-	All civilian production +$1.
+	Tout les civiles produisent +$1.
 >>
 
-SYNTHETICS: Synthetics
+SYNTHETICS: Synthétiques
 SYNTHETICS_DESC: <<|
-	Grants one wildcard affinity. Cannot be exported.
+	Accorde une affinité de caractère générique. Ne peut pas être exportés.
 >>
 
 MICROCLINE: MICROCLINE
 MICROCLINE_DESC: <<|
-	A completely useless resource that seems to occur in vast, vast quantities.
+	Une ressource complètement inutile qui semble se produire en grande, très grande quantité.
 
-	Somehow everything it touches turns into more microcline. Peculiar.
+	En quelque sorte tout ce qu'elle touche se transforme en plus de MICROCLINE. Étrange.
 >>
 
-SLAVE_LABOR: Slave Labor
+SLAVE_LABOR: Travaux Forcés
 SLAVE_LABOR_DESC: <<
-	Adds 5 flat labor generation.
+	Ajoute 5 de production.
 
-	Only ticks down while used in construction.
+	Peut seulement être utilisé pour la construction.
 >>

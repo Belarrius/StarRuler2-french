@@ -3,52 +3,52 @@ ANOMALY_NOTIFICATION: L'anomalie dans $1 a été entièrement scannée.
 SCAN_PROGRESS: Scanner avec un vaisseau pour accéder aux options...
 ANOMALY_CHOICES: Options
 
-ANOMALY_DEBRIS_FIELD: Debris Field
+ANOMALY_DEBRIS_FIELD: Champ de débris
 ANOMALY_NAR_DEBRIS: <<|
-	Amongst the vast amounts of ancient wreckage, a lone signal flickers in and
-	out of detection.
+	Parmi la grande quantité d'épaves antique, seule un signal scintille à l'intérieur.
+	Mais il est hors de détection.
 >>
 
 ANOMALY_NAR_DERELICT_BROKEN: <<|
-	Locating the source of the signal, you find the wreck of an ancient warship.
+	Localiser la source du signal, vous trouverez l'épave d'un ancien navire de guerre.
 
-	The ship appears to be heavily damaged, but perhaps we can find something useful on board.
+	Le navire semble être fortement endommagé, mais peut-être pourons-nous trouver quelque chose d'utile à bord.
 >>
 ANOMALY_DERELICT_SCRAP: <<|
-	Scrap the warship for parts and sell the technology on the black market.
+	Ferrailler le navire de guerre pour les pièces et vendrent les technologies sur le marché noir.
 
 	[b][color=#d1cb6a][right]Gain §$1k[/right][/color][/b]
 >>
 ANOMALY_DERELICT_RESEARCH: <<|
-	Send a team of scientists aboard to study some of the intact subsystems.
+	Envoyer une équipe de scientifiques à bord pour étudier certains des sous-systèmes intacts.
 
-	[b][color=#842cdb][right]Gain a random amount of research points.[/right][/color][/b]
+	[b][color=#842cdb][right]Gain d'une quantité aléatoire de points de recherche.[/right][/color][/b]
 >>
 ANOMALY_NAR_DERELICT_INTACT: <<|
-	Locating the source of the signal, you find a mostly intact ancient warship.
+	Localisation de la source du signal, vous trouvez un ancien navire de guerre en grande partie intact.
 
-	Since the ship's programming is alien to us, reactivating it may have
-	unintended consequences.
+	Comme la programmation du navire nous est étrangère, la réactivation peut avoir 
+	des conséquences imprévues.
 >>
 ANOMALY_DERELICT_ACTIVATE: <<|
-	Attempt to activate and gain control of the warship.
+	Essayer d'activer et de prendre le contrôle du navire de guerre.
 
-	[b][color=#ff0000][right]Unknown results.[/right][/color][/b]
+	[b][color=#ff0000][right]Conséquences inconnues.[/right][/color][/b]
 >>
 ANOMALY_DERELICT_CAMP: <<|
-	After some repairs to the core engine system, the warship activates and
-	whirs to life.
+	Après quelques réparations sur le système de moteur de base, le navire de guerre s'active et
+	reprend vie.
 
-	Unfortunately, the advanced AI programming rejects your engineers,
-	jettisoning them into space and resuming its automated defense tasks.
+	Malheureusement, la programmation de IA avancée rejette vos ingénieurs,
+	elle les larguer dans l'espace et reprend ses tâches de défense automatisés.
 >>
 ANOMALY_DERELICT_DRYDOCK: <<|
-	The warship's internals appear to have been damaged more than we
-	anticipated and will require intensive refitting.
+	Les parties internes du navire de guerre semblent avoir été endommagé plus que nous l'avions
+	prévu et cela nécessitera un ré-aménagement intensif.
 
-	Fortunately, we've been able to decode the ship's programming in the mean
-	time. We will be able to fully operate the ship once its reconstruction has
-	completed.
+	Heureusement, nous avons été en mesure de décoder la programmation du navire pendant ce temps.
+	Nous serons en mesure d'exploiter pleinement le navire, après ça complète reconstruction.
+	
 >>
 ANOMALY_DERELICT_SUPPORTS: <<|
 	After activating the warship's core computer, its AI programming detects
@@ -317,7 +317,7 @@ ANOMALY_MORPH_GREEN: <<|
 ANOMALY_MORPH_HARVEST: <<|
 	Disassemble the obelisk and drain the power cell for your own use.
 
-	[b][color=#42b4bd][right]Gain 100 Energy.[/right][/color][/b]
+	[b][color=#42b4bd][right]Gain Energy.[/right][/color][/b]
 >>
 ANOMALY_MORPH_RESPONSE: <<|
 	In response to its activation, the obelisk emits an immense particle wave

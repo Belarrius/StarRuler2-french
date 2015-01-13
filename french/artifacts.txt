@@ -1,27 +1,30 @@
 ART_COMET: Comète
+ART_COMET_DESC: Une comète géante qui peut être exploitée pour fournir de l'eau à une planète.
 ABL_GENERATE_WATER: Produire de l'eau
 ABL_GENERATE_WATER_DESC: <<|
 	Ajoute une ressource native en eau sur la planète ciblée.
 	
-	L'eau ne peut pas être exporté ou lié à d'autres eaux. // Euh planètes non ? voici la phrase officiel : The water cannot be exported or bound to other waters.
+	L'eau ne peut pas être exporté ou attaché à d'autres eaux. 
 >>
 
 ART_COMMAND_COMPUTER: Système de commandement
-ABL_EXPAND_FLEET: Équipe d'un Système de commandement
+ART_COMMAND_COMPUTER_DESC: Un système informatique équipable qui augmente la capacité de support maximal d'une flotte.
+ABL_EXPAND_FLEET: S'équiper d'un Système de commandement
 ABL_EXPAND_FLEET_DESC: <<|
 	Augmente la capacité de support de la flotte ciblée par 500.
 	
 	Le système de commandement à une grande chance d'être laissé intacte lorsque le vaisseau amiral est détruit.
 >>
-STATUS_COMMAND_COMPUTER: Système de commandement
+STATUS_COMMAND_COMPUTER: Ordinateur de commandement
 STATUS_COMMAND_COMPUTER_DESC: <<|
-	Carrying Command Computer artifact.
+	Transport d'un artéfact - Ordinateur de commandement.
 
-	Capacié de support de la flotte augmené de 500.
-	Peu résister a la destruction du vaisseau amiral.
+	Capacité de support de la flotte augmenté de 300.
+	Peu résister à la destruction du vaisseau amiral.
 >>
 
 ART_POWER_CELL: Cellule énergétique
+ART_POWER_CELL_DESC: Une source d'énergie équipable qui augmente l'efficacité au combat de la flotte de 20%.
 ABL_OVERCHARGE_FLEET: Équipe la cellule énergétique
 ABL_OVERCHARGE_FLEET_DESC: <<|
 	Accroît l'efficacité de la flotte ciblée de 50%.
@@ -33,24 +36,35 @@ STATUS_POWER_CELL: Cellule énergétique
 STATUS_POWER_CELL_DESC: <<|
 	Porteur de l'artefact cellule énergétique.
 
-	Capacié de support de la flotte augmené de 50%.
+	Capacité de support de la flotte augmenté de 50%.
 	Peu résister a la destruction du vaisseau amiral
 >>
 
 ART_NATURE_DEVICE: Arcologie
-ABL_DEVELOP_PLANET: Développer planète
+ART_ARCOLOGY_DESC: Un habitat orbitale abandonné qui peut être déplacé vers une planète pour augmenter population maximale.
+ABL_DEVELOP_PLANET: Déplacer l'Arcologie
 ABL_DEVELOP_PLANET_DESC: <<|
 	Augmente la population maximale sur la planète ciblée de 10.
 >>
 
-ART_TELESCOPE: Téléscope
-ABL_TELESCOPE: Utiliser téléscope
+ART_TELESCOPE: Télescope
+ART_TELESCOPE_DESC: Un télescope quantique jetable qui peut fournir une vision sur de grandes distances.
+ABL_TELESCOPE: Utiliser télescope
 ABL_TELESCOPE_DESC: <<|
 	Rend visible la cible et les systèmes environnent pendant 
 	15 minutes.
 >>
 
-ART_BUSTER_MACHINE: Machine de destruction
+ART_BUSTER_MACHINE: Destructeur de Planète
+ART_BUSTER_MACHINE_DESC: Un navire activable équipé d'un faisceau destructeur de planète.
+ABL_BUSTER_MACHINE: Activation du Destructeur de Planète
+ABL_BUSTER_MACHINE_DESC: Réactiver le vaisseau Destructeur de Planète qui est désactivé, un vaisseau antique équipé d'un faisceau destructeur de planète.
+ABL_BUSTER_BEAM: Activer le faisceau destructeur
+ABL_BUSTER_BEAM_DESC: <<
+	Activer le faisceau destructeur sur une planète.
+
+	Le faisceau destructeur tue la population et épuisent la santé d'une planète. Lorsque la santé de la planète atteint 0, la planète explose. Certains astéroïdes peuvent être laissés après la destruction.
+>>
 ABL_BUST_PLANET: Détruire planète
 ABL_BUST_PLANET_DESC: <<|
 	Détruit la planète de niveau 0 ciblée, laissant quelques astéroïdes derrière elle.
@@ -58,6 +72,13 @@ ABL_BUST_PLANET_DESC: <<|
 NOTIFY_BUST_PLANET: L'empire [color=$2]$1[/color] a activé la [b]Machine de destruction[/b] et a exploser [color=$4]$3[/color] en mille morceaux !
 
 ART_SPY_PROBE: Sonde d'espionnage
+ART_SPY_PROBE_DESC: Une sonde activable avec des scanners sophistiqués qui peuvent espionner pour avoir un avantage diplomatique.
+ABL_SPAWN_SPY_PROBE: Activation de la sonde d'espionnage. LA sonde a des scanners sophistiqués qui peuvent espionner pour avoir un avantage diplomatique.
+ABL_SPAWN_SPY_PROBE_DESC: <<
+	Réactiver la sonde d'espionnage en sommeil.
+>>
+STATUS_SPY_PROBE: Sonde d'espionnage
+STATUS_SPY_PROBE_DESC: Ce navire est une ancienne sonde d'espionnage rénové, et elle a collecté des renseignements pour un empire. Il est impossible de dire quelle empire a envoyé la sonde.
 ABL_GAIN_LEVERAGE: Gain d'influence
 ABL_GAIN_LEVERAGE_DESC: <<|
 	Donne des cartes d'influence contre tous les empires qui contrôlent les planètes 
@@ -70,12 +91,130 @@ ABL_ANCIENT_EMBASSY_DESC: <<|
 	Ancre une ambassade antique sur l'emplacement ciblé.
 >>
 
-ART_GENESIS_DEVICE: Périphérique de génèse
+ART_GENESIS_DEVICE: Périphérique de genèse
+ART_GENESIS_DEVICE_DESC: Un dispositif de terraformation qui peut changer les ressources natives d'une planète en une ressources aléatoire de niveau 2.
 ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
 	Terraforme instantanément la planète ciblée en une ressource aléatoire de niveau 2.
 	
-	Supprime toutes les ressources native présentes sur la planète.
+	Supprime toutes les ressources natives présentes sur la planète.
 >>
 
 ART_MIND_CONTROL: Système de contrôle mental
+
+ART_REVENANT_ENGINE: Engine of The Revenant
+ART_REVENANT_ENGINE_DESC: <<|
+	The Revenant's engine system.
+	Activate to grant all designs [b]100% increased thrust[/b].
+>>
+ORB_REVENANT_ENGINE: Engine of The Revenant
+ABL_REVENANT_ENGINE: Activate Engine of The Revenant
+ABL_REVENANT_ENGINE_DESC: <<
+	Activate the engine of The Revenant, a dark ship of legend.
+
+	While active, the engine provides all your designs with [b]double thrust/acceleration[/b] and designs with hyperdrives with [b]50% increased hyperdrive speed[/b].
+
+	When the activated engine loses all its HP, it reverts back to its deactivated state.
+	
+	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+>>
+NOTIFY_REVENANT_ENGINE: The [color=$2]$1[/color] have activated the [b]Engine of The Revenant[/b].
+
+ART_REVENANT_CANNON: Cannon of The Revenant
+ART_REVENANT_CANNON_DESC: <<|
+	The Revenant's weapons system.
+	Activate to grant all designs [b]75% increased weapons range[/b].
+>>
+ORB_REVENANT_CANNON: Cannon of The Revenant
+ABL_REVENANT_CANNON: Activate Cannon of The Revenant
+ABL_REVENANT_CANNON_DESC: <<
+	Activate the cannon of The Revenant, a dark ship of legend.
+
+	While active, the cannon provides all your designs with [b]75% increased weapon range/speed[/b].
+
+	When the activated cannon loses all its HP, it reverts back to its deactivated state.
+	
+	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+>>
+NOTIFY_REVENANT_CANNON: The [color=$2]$1[/color] have activated the [b]Cannon of The Revenant[/b].
+
+ART_REVENANT_CHASSIS: Chassis of The Revenant
+ART_REVENANT_CHASSIS_DESC: <<|
+	The Revenant's chassis.
+	Activate to grant all designs [b]50% reduced build costs[/b].
+>>
+ORB_REVENANT_CHASSIS: Chassis of The Revenant
+ABL_REVENANT_CHASSIS: Activate Chassis of The Revenant
+ABL_REVENANT_CHASSIS_DESC: <<
+	Activate the chassis of The Revenant, a dark ship of legend.
+
+	While active, the chassis provides all your designs with [b]50% reduced build costs[/b].
+
+	When the activated chassis loses all its HP, it reverts back to its deactivated state.
+	
+	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+>>
+NOTIFY_REVENANT_CHASSIS: The [color=$2]$1[/color] have activated the [b]Chassis of The Revenant[/b].
+
+ART_REVENANT_CORE: Core of The Revenant
+ART_REVENANT_CORE_DESC: <<|
+	The Revenant's command modules.
+	Activate to grant all designs [b]25% increased support capacity[/b].
+>>
+ORB_REVENANT_CORE: Core of The Revenant
+ABL_REVENANT_CORE: Activate Core of The Revenant
+ABL_REVENANT_CORE_DESC: <<
+	Activate the core of The Revenant, a dark ship of legend.
+
+	While active, the core provides all your designs with [b]25% increased support capacity[/b].
+
+	When the activated core loses all its HP, it reverts back to its deactivated state.
+	
+	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+>>
+NOTIFY_REVENANT_CORE: The [color=$2]$1[/color] have activated the [b]Core of The Revenant[/b].
+
+ART_PLANET_GENERATOR: Planet Generator
+ART_PLANET_GENERATOR_DESC: An accelerated mass generator that can assemble brand new planets out of pure energy.
+ABL_GENERATE_PLANET: Generate Planet
+ABL_GENERATE_PLANET_DESC: <<
+	Spontaneously create a new randomized planet at the targeted position.
+>>
+
+ART_STELLAR_GENERATOR: Stellar Generator
+ART_STELLAR_GENERATOR_DESC: Channels massive amounts of energy into a point in space to create a brand new star.
+ABL_GENERATE_STAR: Generate Star
+ABL_GENERATE_STAR_DESC: <<
+	Spontaneously create a new star at the targeted position.
+>>
+
+ART_SKIP_DRIVE: Skip Drive
+ART_SKIP_DRIVE_DESC: An equippable experimental drive system that uses raw energy to FTL very short distances.
+ABL_EQUIP_SKIP_DRIVE: Equip Skip Drive
+ABL_EQUIP_SKIP_DRIVE_DESC: Equip a skip drive to the targeted fleet. Skip drives are instant teleportation, but use up large amounts of energy and have a long cooldown.
+STATUS_SKIP_DRIVE: Skip Drive
+STATUS_SKIP_DRIVE_DESC: This flagship has a skip drive equipped. Skip drives are instant teleportation, but use up large amounts of energy and have a long cooldown.
+ABL_BLINK: Teleport
+ABL_BLINK_DESC: Instantly teleport the fleet to a nearby position. Costs more energy the further away the fleet is teleported.
+
+ART_ION_CANNON: Ion Cannon
+ART_ION_CANNON_DESC: An equippable beam cannon that temporarily disables enemy engines and FTL.
+ABL_EQUIP_ION_CANNON: Equip Ion Cannon
+ABL_EQUIP_ION_CANNON_DESC: Equip an ion cannon to the targeted fleet. Firing an ion cannon temporarily prevents the targeted ship from moving or using FTL.
+STATUS_ION_CANNON: Ion Cannon
+STATUS_ION_CANNON_DESC: This flagship has an ion cannon equipped. Firing an ion cannon temporarily prevents the targeted ship from moving or using FTL.
+ABL_ION_CANNON: Fire Ion Cannon
+ABL_ION_CANNON_DESC: <<
+	Fire the equipped ion cannon on a target enemy flagship. It will be unable to move or use FTL for 2 minutes after being hit.
+	
+	Ion cannons cost more energy to fire if the enemy ship is larger than the ship with the ion cannon.
+>>
+
+ART_PROTO_PLANET: Protoplanet
+ART_PROTO_PLANET_DESC: A planet still in the process of forming. Expend a large amount of energy to regulate its formation.
+ABL_PROTO_LEVEL0: Form Planet (Tier 0)
+ABL_PROTO_LEVEL0_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 0 resource.
+ABL_PROTO_LEVEL1: Form Planet (Tier 1)
+ABL_PROTO_LEVEL1_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 1 resource.
+ABL_PROTO_LEVEL2: Form Planet (Tier 2)
+ABL_PROTO_LEVEL2_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 2 resource.

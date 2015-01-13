@@ -65,7 +65,7 @@ PASSED: Passé
 FAILED: Manqué
 PROPOSE: Proposer
 USE: Utiliser
-HEALTH: PV // A l'air de correspondre
+HEALTH: PV
 ENERGY: Énergie
 FLEET_STRENGTH: Puissance flotte
 SCUTTLE: Saborder
@@ -84,6 +84,12 @@ DISCONNECT: Déconnecté du serveur
 WORMHOLE: Trou-de-ver
 NEXT: Suivant
 PREVIOUS: Précédent
-CLOSE: Fermer // A vérifier si sa coïncide
+CLOSE: Fermer
 SIZE: Taille
 VS: vs
+START: Démarrer
+ACTIVATE: Activer
+ENABLED: Activé
+DISABLED: Désactivé
+NEW: Nouvelle
+ZOOM: Zoom
