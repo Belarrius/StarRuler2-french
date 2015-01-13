@@ -9,7 +9,7 @@ Projet de traduction française du jeu Star Ruler 2.
 Comment installer la traduction Française :
 ----
 
-* [**Télécharger le zip**](https://github.com/DarkMatter26/StarRuler2-french-R4079/archive/R4079.zip)  
+* [**Télécharger le zip**](https://github.com/Belarrius/StarRuler2-french/archive/master.zip)
 * Décompresser StarRuler2-french-master.zip
 * Déplacez le dossier "french" (contenu dans StarRuler2-french-master) dans le dossier "Steam/SteamApps/common/Star Ruler 2/locales"
 * Redémarrez votre jeu, vous devriez voir apparaître la langue "french" dans les options du jeu, choisissez la !
